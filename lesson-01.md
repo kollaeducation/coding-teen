@@ -28,7 +28,7 @@
 * Front-end
 * Back-end
 * Database
-<img src="https://scontent-sin6-2.xx.fbcdn.net/v/t1.0-9/23167628_10211175949982656_2655354996323812448_n.jpg?oh=ca83ffb1777141001e7b455b9636d95a&oe=5A6CE479">
+<img src="https://scontent-sin6-2.xx.fbcdn.net/v/t1.0-9/23231152_10211176010504169_5875096317697632587_n.jpg?oh=d1aedd981b2fefb41f708de657006529&oe=5A644978">
 
 ##### b) Web Development Technologies 
 * Front-end:
