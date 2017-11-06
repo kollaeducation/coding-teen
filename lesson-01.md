@@ -20,9 +20,8 @@
 3. Peserta mampu mengenali beberapa tag yang sering digunakan dalam pembuatan website.   
 
 ### Tools
-1. **Windows**: [Sublime](https://www.sublimetext.com)
-2. **Mac**: TextEdit
-3. **Browser**:
+1. **Windows/Mac/Linux**: [Sublime](https://www.sublimetext.com)
+2. **Browser**:
     * Google Chrome
     * Internet Explorer
     * Mozilla Firefox
