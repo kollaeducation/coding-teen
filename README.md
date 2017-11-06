@@ -5,78 +5,98 @@
 
 ---
 
-### LESSON 01: INTRO TO WEBSITE DEVELOPMENT
-#### Objectives:
-1. Peserta mampu memetakan dan membedakan berbagai macam teknologi dalam pembuatan website.
-2. Peserta mampu mengenali struktur dasar layout dalam suatu website.
+### LESSON 01: WEBSITE TECHNOLOGY
+#### Topics:
+1. Backend
+2. Frontend
 
 ----
 
-### LESSON 02: HTML AND CSS
-#### Objectives:
-1. Peserta mampu membuat **HTML** dan **CSS** dasar dengan text editor sederhana.
-2. Peserta mengerti pemisahan **HTML sebagai struktur** dan **CSS sebagai presentasi** dalam website.
+### LESSON 02: HTML & CSS
+#### Topics:
+1. File and Folder Management
+2. HTML
+3. CSS
 
 ----
 
-### LESSON 03: WEBSITE STRUCTURE
-#### Objectives:
-1. Peserta mengerti struktur website dibentuk dari **HTML** `div`, dibantu **CSS** `float`.
-2. Peserta mampu membuat baris dan kolom menggunakan **HTML** `div` dan **CSS** `float`.
+### LESSON 03: TYPOGRAPHY AND COPYWRITING
+#### Topics:
+1. Text
+2. Font
+3. Copywriting
 
 ----
 
-### LESSON 04: INTRO TO FRAMEWORK
-#### Objectives:
-1. Peserta mengetahui framework sebagai alat bantu pemercepat pembuatan website.
-2. Peserta mampu membangun website menggunakan framework Bootstrap.
+### LESSON 04: FORM AND EMBED
+#### Topics:
+1. Form
+2. Video
+3. Map
+4. Audio
 
 ----
 
-### LESSON 05: FRAMEWORK
-#### Objectives:
-1. Peserta mengerti konsep website responsive.
-2. Peserta mampu menggunakan class pada Bootstrap untuk mobile, tablet, desktop dan large screen.
+### LESSON 05: TOPOGRAPHY
+#### Topics:
+1. Header
+2. Content
+3. Footer
 
 ----
 
-### LESSON 06: PERSONAL PROJECT
-#### Objectives:
-1. Peserta mulai mengerjakan **Personal Project**.
+### LESSON 06: TOPOGRAPHY ADVANCED
+#### Topics:
+1. Row
+2. Column
 
 ----
 
-### LESSON 07: DOMAIN, HOSTING AND GITHUB
-#### Objectives:
-1. Peserta mampu membedakan antara **domain** dan **hosting**.
-2. Peserta mampu mengunggah website ke **hosting**.
-3. Peserta mampu menggunakan **Github** sebagai tempat penyimpanan kode dan hosting statis. (optional)
+### LESSON 07: FRAMEWORK BOOTSTRAP
+#### Topics:
+1. Instalation
+2. Row
+3. Column 
 
 ----
 
-### LESSON 8: PRESENTATION
-#### Assessment:
+### LESSON 08: FRAMEWORK BOOTSTRAP ADVANCED
+#### Topics:
+1. Responsive
+2. Functionality
+
+----
+
+### LESSON 09: PERSONAL PROJECT
+#### Topics:
+1. Research
+2. Template
+
+----
+
+### LESSON 10: PERSONAL PROJECT CONSULTATION
+#### Topics:
+1. Consultation
+
+----
+
+### LESSON 11: DOMAIN, HOSTING, GITHUB PAGES
+#### Topics:
+1. Domain
+2. Hosting
+3. Github Page
+
+----
+
+### LESSON 12: PRESENTATION
+#### Topics:
 1. Code
 2. Functionality
-3. Information Architecture (IA)
-4. User Interface (UI)
-5. User Experience (UX)
+3. User Interface (UI)
+4. User Experience (UX)
 
 ----
-<!---
-### Catatan:
-1. HTML dan CSS dijadikan materi utama kurikulum Coding Mum. Alumni diharapkan bisa menjadi front-end developer yang memiliki pengetahuan HTML dan CSS solid, ditambah kemampuan menggunakan JavaScript sebagai pendukung.
 
-2. Bootstrap adalah framework yang paling popular saat ini. Ia sangat membantu development website dari segi waktu dan biaya. Mungkin perlu effort lebih bagi pengajar untuk familiar dengan Bootstrap.
-
-3. Materi Github mungkin menjadi bottleneck bagi proses belajar/mengajar Coding Mum. Diharapkan materi Github hanya sebagai pendukung saja. Mentor berperan besar dalam membantu meng-upload website ke Github peserta. Sehingga tidak membuang waktu banyak di materi Github.
-
-4. Materi JavaScript mungkin materi berat bagi Coding Mum. Diharapkan JavaScript yang diajarkan hanya elemen pendukung dari pembuatan website
-
-5. The art of searching. Kelas tidak bisa mengcover seluruh ilmu. Beritahu trik mencari solusi di Google dengan keyword yang spesifik.
-
----
--->
 | [Home][0] | [01][1] | [02][2] | [03][3] | [04][4] | [05][5] | [06][6] | [07][7] | [08][8] | [09][9] | [10][10] | [11][11] | [Presentation][12] |
 |:---------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:--------:|:--------:|:------------------:|
 
