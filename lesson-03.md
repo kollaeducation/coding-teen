@@ -520,14 +520,14 @@
         <ul class="minuman">
           <li>Ice Blend Coffee</li>
           <li>Ice Blend Strawberry Javachip</li>
-          <li>Ice Blend Cookies & Cream</li>
+          <li>Ice Blend Cookies dan Cream</li>
         </ul>
 
         <h2>Menu Makanan</h2>
         <ul class="makanan">
           <li>Coffee Cake</li>
           <li>Strawberry Cake</li>
-          <li>Cookies & Cream</li>
+          <li>Cookies dan Cream</li>
         </ul>
       </body>
     </html>
@@ -566,14 +566,14 @@
         <ul class="minuman">
           <li>Ice Blend Coffee</li>
           <li>Ice Blend Strawberry Javachip</li>
-          <li>Ice Blend Cookies & Cream</li>
+          <li>Ice Blend Cookies dan Cream</li>
         </ul>
 
         <h2>Menu Makanan</h2>
         <ul class="makanan">
           <li>Coffee Cake</li>
           <li>Strawberry Cake</li>
-          <li>Cookies & Cream</li>
+          <li>Cookies dan Cream</li>
         </ul>
       </body>
     </html>
@@ -622,9 +622,9 @@
 
 [0]: README.md "Home"
 [1]: lesson-01.md "Web Technology"
-[2]: lesson-02.md "HTML & CSS"
+[2]: lesson-02.md "HTML dan CSS"
 [3]: lesson-03.md "Typography"
-[4]: lesson-04.md "Form & Embed"
+[4]: lesson-04.md "Form dan Embed"
 [5]: lesson-05.md "Topography"
 [6]: lesson-06.md "Topography Advanced"
 [7]: lesson-07.md "Framework"
