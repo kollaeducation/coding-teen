@@ -5,7 +5,7 @@
 
 ---
 
-### LESSON 01: WEBSITE TECHNOLOGY
+### LESSON 01: WEB TECHNOLOGY
 #### Topics:
 1. Backend
 2. Frontend
@@ -20,11 +20,10 @@
 
 ----
 
-### LESSON 03: TYPOGRAPHY AND COPYWRITING
+### LESSON 03: TYPOGRAPHY
 #### Topics:
 1. Text
 2. Font
-3. Copywriting
 
 ----
 
@@ -102,14 +101,14 @@
 
 [0]: README.md "Home"
 [1]: lesson-01.md "Web Technology"
-[2]: lesson-02.md "Anchor & Paging"
+[2]: lesson-02.md "HTML & CSS"
 [3]: lesson-03.md "Typography"
 [4]: lesson-04.md "Form & Embed"
 [5]: lesson-05.md "Topography"
-[6]: lesson-06.md "Topography"
+[6]: lesson-06.md "Topography Advanced"
 [7]: lesson-07.md "Framework"
-[8]: lesson-08.md "Framework Lanjut"
+[8]: lesson-08.md "Framework Advanced"
 [9]: lesson-09.md "Personal Project"
-[10]: lesson-10.md "Consutlation"
+[10]: lesson-10.md "Personal Project Consultation"
 [11]: lesson-11.md "Domain, Hosting dan Github Pages"
 [12]: lesson-12.md "Presentation"
