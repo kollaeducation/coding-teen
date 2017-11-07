@@ -10,62 +10,34 @@
 ---
 
 ### Objectives
-1. Peserta mengerti konsep website responsive.
-2. Peserta mampu menggunakan class pada Bootstrap untuk mobile, tablet, desktop dan large screen.
+1. Peserta mengerti struktur website dibentuk dari **HTML** `div`, dibantu **CSS** `float`.
+2. Peserta mampu membuat baris dan kolom menggunakan **HTML** `div` dan **CSS** `float`.
+2. Peserta mampu membuat baris dan kolom menggunakan **HTML** `div` dan **CSS** `float`.
 
 ---
 
-### Materi
-
-#### 1. Class Responsive
-* Extra small devices Phones (<768px)
-  ```html
-  <div class="col-xs-6">
-    Ini untuk Phones
-  </div>
-  ```
-* Small devices Tablets (≥768px)
-  ```html
-  <div class="col-sm-6">
-    Ini untuk Tablets
-  </div>
-  ```
-* Medium devices Desktops (≥992px)
-  ```html
-  <div class="col-md-6">
-    Ini untuk Desktops
-  </div>
-  ```
-* Large devices Desktops (≥1200px)
-  ```html
-  <div class="col-lg-6">
-    Ini untuk Large Screen
-  </div>
-  ```
-* Digabung semua
-  ```html
-  <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-    Ini gabungan semua
-  </div>
-  ```
+### Material
+#### 1. Blocks
+#### 2. Box Model
+#### 3. Web Structure
 
 ---
 
-### Latihan
-1. Buat halaman yang responsive ketika dibuka pada Phone, Tablet, Desktop dan Large Screen.
+### Instruction
+1. Buka sublime dan mulai menulis script.
+2. Peserta diajarkan untuk mengerti cara membuat internal dan eksternal link.
+2. Peserta diajarkan untuk membuat navigasi menu.
 
 ---
 
 ### Feedback
-1. Apa yang menjadi bottleneck dari **lesson 05** ini?
-2. Apa yang sebaiknya ditambah dan ditiadakan dari materi **lesson 05** ini?
+1. Apa yang menjadi bottleneck dari **lesson 02** ini?
+2. Apa yang sebaiknya ditambah dan ditiadakan dari materi **lesson 02** ini?
 
 ---
 
-### Referensi
-1. [Bootstrap Grid](http://getbootstrap.com/css/#grid "Bootstrap Grid")
-2. [Front-End Web UI Frameworks and Tools](https://www.coursera.org/learn/web-frameworks "Front-End Web UI Frameworks and Tools")
-2. [Introduction to Bootstrap](https://www.edx.org/course/introduction-bootstrap-tutorial-microsoft-dev203x-2 "Introduction to Bootstrap")
+### References
+
 
 ---
 
