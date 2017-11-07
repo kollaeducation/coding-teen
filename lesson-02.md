@@ -296,13 +296,13 @@
         <link rel="stylesheet" type="text/css" href="css/style.css">
       </head>
       <body>
-        <a href="www.facebook.com">
+        <a href="https://www.facebook.com">
           <img src="images/logo-facebook.png">
         </a>
-        <a href="www.instagram.com">
+        <a href="https://www.instagram.com">
           <img src="images/logo-instagram.png">
         </a>
-        <a href="www.youtube.com">
+        <a href="https://www.youtube.com">
           <img src="images/logo-youtube.png">
         </a>
       </body>
@@ -319,9 +319,12 @@
   }
 
   img {
-    width: 32px;
+    width: 128px;
   }
 
+  a{
+    text-decoration: none;
+  }
 
   ``` 
 
@@ -715,28 +718,16 @@
 
   ```css
 
-  a {
-    color: #4b007a;
-  }
-
-  a:hover{
-    background-color: yellow;
-  }  
-
-  a:visited{
-    color: #7a0016;
-  }
-
-  a:active{
-    background-color: #66ffef;
-  } 
-
-  a:link{
-    color: #007a75;
-  }      
-
   body {
     text-align: center;
+  }
+
+  img {
+    width: 128px;
+  }
+
+  a{
+    text-decoration: none;
   }
 
   ```  
