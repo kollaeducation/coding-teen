@@ -12,7 +12,7 @@
 ### Objectives
 1. Peserta mengerti struktur website dibentuk dari **HTML** `div`, dibantu **CSS** `float`.
 2. Peserta mampu membuat baris dan kolom menggunakan **HTML** `div` dan **CSS** `float`.
-2. Peserta mampu memahami penggunaan margin, padding, dan border.
+2. Peserta mampu memahami penggunaan `margin` , `padding` , dan `border` .
 
 ---
 
@@ -111,7 +111,7 @@
       float: left;
       width: 33%;
       padding: 30px;
-      bolder: doted 2px blue;
+      bolder: dotted 2px blue;
   }
   .childb {
       background-color: chocolate;
