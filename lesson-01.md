@@ -150,7 +150,27 @@
 
   ```  
 
-##### e) Heading
+##### e) Komentar Pada HTML
+
+  * Isi file index.html:
+
+  ```html
+
+    <html>
+      <head>
+        <title>
+          Jago Membuat Website Selama Dua Minggu
+        </title>
+        <meta name="description" content="Lembaga edukasi yang menyediakan pelatihan pembuatan website statis selama 12 Kali pertemuan dengan menggunakan metode literasi code.">
+      </head>
+      <body>
+        <!-- Ini hanya sebuah komentar, tidak akan ditampilkan -->
+      </body>
+    </html>
+
+  ``` 
+
+##### f) Heading
 
   * Isi file index.html:
 
@@ -174,7 +194,7 @@
 
   ```
 
-##### f) Paragraph
+##### g) Paragraph
 
 
   ```html
@@ -194,7 +214,7 @@
 
   ```
   
-##### g) Anchor / Link
+##### h) Anchor / Link
 
 
   * Struktur Folder
@@ -255,7 +275,7 @@
 
   ```
 
-##### h) Image
+##### i) Image
 
   * Struktur Folder
 
