@@ -84,8 +84,6 @@
     * Web Developer
     * etc
 
----
-
 #### 2. Pengenalan Sintaks HTML
 ##### a) Struktur Folder
 
