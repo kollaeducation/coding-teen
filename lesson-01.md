@@ -34,7 +34,6 @@
 ---
 
 ### Material
-
 #### 1. Web Technology
 
 ##### a) Frontend and Backend Differences
@@ -88,7 +87,6 @@
 ---
 
 #### 2. Pengenalan Sintaks HTML
-
 ##### a) Struktur Folder
 
   ```text
