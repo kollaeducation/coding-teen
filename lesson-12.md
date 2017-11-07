@@ -5,7 +5,7 @@
 
 ---
 
-### LESSON 08: PRESENTATION
+### LESSON 12: PRESENTATION
 
 ---
 
