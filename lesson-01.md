@@ -93,7 +93,7 @@ b) Title
     <html>
       <head>
         <title>
-          Kolla
+          Jago Membuat Website Selama Dua Minggu
         </title>
       </head>
       <body>
@@ -107,9 +107,9 @@ b) Meta Description
     <html>
       <head>
         <title>
-          Kolla
+          Jago Membuat Website Selama Dua Minggu
         </title>
-        <meta name="description" content="All about service and product Kolla">
+        <meta name="description" content="Lembaga edukasi yang menyediakan pelatihan pembuatan website statis selama 12 Kali pertemuan dengan menggunakan metode literasi code.">
       </head>
       <body>
         
