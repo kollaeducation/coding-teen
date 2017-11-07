@@ -511,12 +511,24 @@
     <html>
       <head>
         <title>
-          Insert CSS on HTML Page
+          List Style Type
         </title>
         <link rel="stylesheet" type="text/css" href="css/style.css">
       </head>
       <body>
-        Hai
+        <h2>Menu Minuman</h2>
+        <ul class="minuman">
+          <li>Ice Blend Coffee</li>
+          <li>Ice Blend Strawberry Javachip</li>
+          <li>Ice Blend Cookies & Cream</li>
+        </ul>
+
+        <h2>Menu Makanan</h2>
+        <ul class="makanan">
+          <li>Coffee Cake</li>
+          <li>Strawberry Cake</li>
+          <li>Cookies & Cream</li>
+        </ul>
       </body>
     </html>
 
@@ -526,14 +538,17 @@
 
   ```css
 
-  body {
-    color: yellow;
-    background-color: black;
-  }
+    .minuman li{
+     list-style-type: square;
+   }
+
+   .makanan li{
+     list-style-type: circle;
+   }
 
   ``` 
 
-##### b) List Style Image
+##### b) List Style Position
 
   * Isi file index.html:
 
@@ -542,12 +557,24 @@
     <html>
       <head>
         <title>
-          Insert CSS on HTML Page
+          List Style Type
         </title>
         <link rel="stylesheet" type="text/css" href="css/style.css">
       </head>
       <body>
-        Hai
+        <h2>Menu Minuman</h2>
+        <ul class="minuman">
+          <li>Ice Blend Coffee</li>
+          <li>Ice Blend Strawberry Javachip</li>
+          <li>Ice Blend Cookies & Cream</li>
+        </ul>
+
+        <h2>Menu Makanan</h2>
+        <ul class="makanan">
+          <li>Coffee Cake</li>
+          <li>Strawberry Cake</li>
+          <li>Cookies & Cream</li>
+        </ul>
       </body>
     </html>
 
@@ -557,41 +584,16 @@
 
   ```css
 
-  body {
-    color: yellow;
-    background-color: black;
-  }
+    .minuman li{
+     list-style-type: square;
+     list-style-position: inside;
+   }
 
-  ``` 
+   .makanan li{
+     list-style-type: circle;
+     list-style-position: outside;
+   }
 
-##### c) List Style Position
-
-  * Isi file index.html:
-
-  ```html
-
-    <html>
-      <head>
-        <title>
-          Insert CSS on HTML Page
-        </title>
-        <link rel="stylesheet" type="text/css" href="css/style.css">
-      </head>
-      <body>
-        Hai
-      </body>
-    </html>
-
-  ```
-
-  * Isi file style.css:
-
-  ```css
-
-  body {
-    color: yellow;
-    background-color: black;
-  }
 
   ``` 
 
