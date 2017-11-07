@@ -16,126 +16,30 @@
 ---
 
 ### Material
-
-#### 1. Preparation
-* Download Bootstrap from http://getbootstrap.com/css/#grid
-* Find and copy file `bootstrap.css` into your project's folder.
-
-#### 2. Container and Row sebagai parent dari kolom-kolom.
-* Bootstrap 1 Kolom
-  ```html
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
-        Satu kolom
-      </div>
-    </div>
-  </div>
-  ```
-* Bootstrap 2 Kolom
-  ```html
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-6">
-        Kolom 1
-      </div>
-      <div class="col-xs-6">
-        Kolom 2
-      </div>
-    </div>
-  </div>
-  ```
-* Bootstrap 3 Kolom
-  ```html
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-4">
-        Kolom 1
-      </div>
-      <div class="col-xs-4">
-        Kolom 2
-      </div>
-      <div class="col-xs-4">
-        Kolom 3
-      </div>
-    </div>
-  </div>
-  ```
-* Bootstrap 3 Kolom Kompleks
-  ```html
-  <div class="container">
-      <div class="row">
-          <div class="col-xs-4 merah">
-              <div class="anak1">
-                  <h4>Anak 1</h4>
-                  <p>Ini paragraf Ini paragraf Ini paragraf</p>
-              </div>
-          </div>
-          <div class="col-xs-4 orange">
-              <div class="row">
-                  <div class="col-xs-12 orange">Cucu 1</div>
-                  <div class="col-xs-12 ungu">Cucu 2</div>
-              </div>
-          </div>
-          <div class="col-xs-4 hijau">
-            <div class="row">
-                <div class="col-xs-12 ungu">Cucu 1</div>
-                <div class="col-xs-12 orange">
-                    <div class="row">
-                       <div class="col-xs-6 hijau">Cicit 1</div>
-                       <div class="col-xs-6 merah">Cicit 2</div>
-                    </div>
-                </div>
-            </div>
-          </div>
-      </div>
-  </div>
-  ```
-
-#### 2. CSS pembantu
-* CSS `style.css`
-  ```css
-  .merah {
-      background-color: red;
-  }
-  .ungu {
-      background-color: purple;
-  }
-  .hijau {
-      background-color: green;
-  }
-  .orange {
-      background-color: orange;
-  }
-  .hitam {
-      background-color: black;
-  }
-  .anak1 {
-      margin-left: 20px;
-  }
-  ```
----
-
-### File
-[Download file for this lesson: lesson-04.zip](files/lesson-04.zip)
+#### 1. Form
+#### 2. Input
+#### 3. Select
+#### 4. Textarea
+#### 5. Embed Google Form
+#### 6. Embed Video
 
 ---
 
-### Exercises
-1. Peserta membuat 4 kolom menggunakan Bootstrap.
+### Instruction
+1. Buka sublime dan mulai menulis script.
+2. Peserta diajarkan untuk mengerti cara membuat internal dan eksternal link.
+2. Peserta diajarkan untuk membuat navigasi menu.
 
 ---
 
 ### Feedback
-1. Apa yang menjadi bottleneck dari **lesson 04** ini?
-2. Apa yang sebaiknya ditambah dan ditiadakan dari materi **lesson 04** ini?
+1. Apa yang menjadi bottleneck dari **lesson 02** ini?
+2. Apa yang sebaiknya ditambah dan ditiadakan dari materi **lesson 02** ini?
 
 ---
 
 ### References
-1. [Bootstrap Official](http://getbootstrap.com/ "Bootstrap Official")
-2. [Front-End Web UI Frameworks and Tools](https://www.coursera.org/learn/web-frameworks "Front-End Web UI Frameworks and Tools")
-2. [Introduction to Bootstrap](https://www.edx.org/course/introduction-bootstrap-tutorial-microsoft-dev203x-2 "Introduction to Bootstrap")
+
 
 ---
 
