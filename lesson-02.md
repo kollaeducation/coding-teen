@@ -19,6 +19,8 @@
     * meta description
 3. Peserta mampu mengenali beberapa tag yang sering digunakan dalam pembuatan website.   
 
+---
+
 ### Tools
 1. **Windows/Mac/Linux**: [Sublime](https://www.sublimetext.com)
 2. **Browser**:
@@ -29,58 +31,65 @@
     * Safari
     * Dll
 
-### Material
+---
 
+### Material
 #### 1. Eksternal CSS
 
-##### a) Insert CSS on HTML Page
-  * Siapkan sebuah folder dengan nama eksternal-css.
-  * Di dalam folder eksternal-css, buat sebuah file dengan nama index.html dan sebuah folder dengan nama css.
-  * Di dalam folder css buat file dengan nama style.css.
-  * Berikut struktur file dan folder yang ada di dalam folder eksternal-css:
+##### a) Struktur Folder
 
   ```text
-  |-- eksternal-css
-        |-- index.html
-        |-- css
-              |-- style.css
+
+    +-- nama-folder
+      |-- index.html
+      +-- css
+        |-- style.css
+
   ```
+
+##### b) Insert CSS on HTML Page
   
   * Isi file index.html:
 
   ```html
+
     <html>
       <head>
         <title>
-          Kolla
+          Insert CSS on HTML Page
         </title>
-        <link rel="stylesheet" type="text/css" href="style.css">
+        <link rel="stylesheet" type="text/css" href="css/style.css">
       </head>
       <body>
 
       </body>
     </html>
+
   ```
 
   * Isi file style.css:
 
   ```css
+
   body {
     color: #4c4c4c;
     background-color: #f9fbff;
   }
+
   ``` 
 
-##### b) Styling heading
-  * Masih di dalam file index.html yang sama, tambahkan tag heading 1, heading 2, dan heading 3 seperti pada tulisan di bawah ini:
+##### c) Styling Heading
+
+  * Isi file index.html:
 
   ```html
+
     <html>
       <head>
         <title>
-          Styling heading
+          Styling Heading
         </title>
-        <link rel="stylesheet" type="text/css" href="style.css">
+        <link rel="stylesheet" type="text/css" href="css/style.css">
       </head>
       <body>
         <h1>Judul</h1>
@@ -95,136 +104,113 @@
 
       </body>
     </html>
+
   ```
 
-  * Tambahkan style untuk heading dalam file style.css
+  * Isi file style.css:
 
   ```css
-  body {
-    color: #4c4c4c;
-    background-color: #f9fbff;
-  }
 
   h1{
     color: blue;
+    text-align: center;
   }
 
   h2{
     color: red;
+    text-align: right;
   }
 
   h3{
     color: green;
+    text-align: left;
   }
+
   ``` 
 
-##### c) Styling pragraph
-  * Masih di dalam file index.html yang sama, tambahkan tag paragraf seperti pada tulisan di bawah ini:
+##### d) Styling Pragraph
+
+
+  * Isi file index.html:
 
   ```html
+
     <html>
       <head>
         <title>
-          Styling pragraph
+          Styling Pragraph
         </title>
-        <link rel="stylesheet" type="text/css" href="style.css">
+        <link rel="stylesheet" type="text/css" href="css/style.css">
       </head>
       <body>
-        <h1>Judul</h1>
-
-        <h2>Sub Judul</h2>
-
-        <h3>Poin 1</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        <p class="pull-right">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        </p>
         
-        <h3>Poin 2</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        </p>
         
-        <h3>Poin 3</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        <p class="pull-right">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        </p>
 
       </body>
     </html>
+
   ```
 
-  * Tambahkan style untuk paragraf dalam file style.css
+  * Isi file style.css:
 
   ```css
-  body {
-    color: #4c4c4c;
-    background-color: #f9fbff;
-  }
-
-  h1{
-    color: blue;
-  }
-
-  h2{
-    color: red;
-  }
-
-  h3{
-    color: green;
-  }
 
   p{
     color: purple;
   }
+
+  .pull-right{
+    text-align: right;
+  }
+
   ```
 
-##### d) Styling anchor
-  * Masih di dalam file index.html yang sama, tambahkan tag anchor yang akan memanggil eksternal page google, facebook, dan instagram:
+##### e) Styling Anchor
+
+
+  * Isi file index.html:
 
   ```html
+
     <html>
       <head>
         <title>
-          Styling pragraph
+          Styling Anchor
         </title>
-        <link rel="stylesheet" type="text/css" href="style.css">
+        <link rel="stylesheet" type="text/css" href="css/style.css">
       </head>
       <body>
-        <h1>Judul</h1>
 
-        <h2>Sub Judul</h2>
+        <a href="https://www.google.co.id">
+          Google 
+        </a> 
 
-        <h3>Poin 1</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-        
-        <h3>Poin 2</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-        
-        <h3>Poin 3</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-        <a href="https://www.google.co.id"> Google </a> | <a href="https://www.facebook.com/"> Facebook </a> | <a href="https://www.instagram.com"> Instagram</a>
+        <a href="https://www.facebook.com/">
+          Facebook 
+        </a>  
+
+        <a href="https://www.instagram.com"> 
+          Instagram
+        </a>
 
       </body>
     </html>  
+
   ```
 
-  * Tambahkan style untuk anchor dalam file style.css
+  * Isi file style.css:
 
   ```css
-  body {
-    color: #4c4c4c;
-    background-color: #f9fbff;
-  }
 
-  h1{
-    color: blue;
-  }
-
-  h2{
-    color: red;
-  }
-
-  h3{
-    color: green;
-  }
-
-  p{
-    color: purple;
-  }
   a {
     color: #4b007a;
   }
@@ -248,16 +234,189 @@
   body {
     text-align: center;
   }
+
   ```  
 
 #### 2. Favicon
+
 ##### a) Insert Favicon on HTML Page
 
+  * Struktur Folder
+
+  ```text
+
+    +-- nama-folder
+      |-- index.html
+      +-- images
+        |-- icon-kolla.png
+
+  ```
+
+  * Isi file index.html:
+
+  ```html
+
+    <html>
+      <head>
+        <title>
+          Insert Favicon on HTML Page
+        </title>
+        <link rel="icon" type="image/png" href="images/icon-kolla.png" sizes="32x32">
+      </head>
+      <body>
+
+      </body>
+    </html>  
+
+  ```
+
 #### 3 Paging
-##### a) Navigation menus
-##### b) Eksternal links
-##### c) Internal links
+##### a) Eksternal Links
+
+  * Struktur Folder
+
+  ```text
+
+    +-- nama-folder
+      |-- index.html
+      +-- css
+        |-- style.css
+      +-- images
+        |-- logo-facebook.png
+        |-- logo-instagram.png
+        |-- logo-youtube.png
+
+  ```
+
+  * Isi file index.html:
+
+  ```html
+
+    <html>
+      <head>
+        <title>
+          Eksternal Links
+        </title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+      </head>
+      <body>
+        <a>
+          <img src="images/logo-facebook.png">
+          <img src="images/logo-instagram.png">
+          <img src="images/logo-youtube.png">
+        </a>
+      </body>
+    </html>  
+
+  ```
+
+  * Isi file style.css:
+
+  ```css
+
+  body {
+    text-align: center;
+  }
+
+  img {
+    width: 32px;
+  }
+
+
+  ``` 
+
+##### b) Internal Links
+
+  * Struktur Folder
+
+  ```text
+
+    +-- nama-folder
+      |-- index.html
+      +-- images
+        |-- icon-kolla.png
+
+  ```
+
+  * Isi file index.html:
+
+  ```html
+
+    <html>
+      <head>
+        <title>
+          Internal Links
+        </title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+      </head>
+      <body>
+
+      </body>
+    </html>  
+
+  ```
+
+##### c) Navigation Menus
+
+  * Struktur Folder
+
+  ```text
+
+    +-- nama-folder
+      |-- index.html
+      +-- images
+        |-- icon-kolla.png
+
+  ```
+
+  * Isi file index.html:
+
+  ```html
+
+    <html>
+      <head>
+        <title>
+          Navigation Menus
+        </title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+      </head>
+      <body>
+
+      </body>
+    </html>  
+
+  ```
+
 ##### d) Open Page on New Tab
+
+  * Struktur Folder
+
+  ```text
+
+    +-- nama-folder
+      |-- index.html
+      +-- images
+        |-- icon-kolla.png
+
+  ```
+
+  * Isi file index.html:
+
+  ```html
+
+    <html>
+      <head>
+        <title>
+          Navigation Menus
+        </title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+      </head>
+      <body>
+
+      </body>
+    </html>  
+
+  ```
 
 ---
 
