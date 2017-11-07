@@ -101,7 +101,7 @@
 
 #### 2. Inline Elements For Text Formating
 
-##### a) <em>
+##### a) &lt;em&gt;
 
   * Isi file index.html:
 
@@ -121,7 +121,7 @@
 
   ```
 
-##### b) <strong>
+##### b) &lt;strong&gt;
 
   * Isi file index.html:
 
@@ -141,7 +141,7 @@
 
   ```
 
-##### c) <sub>
+##### c) &lt;sub&gt;
 
   * Isi file index.html:
 
@@ -161,7 +161,7 @@
 
   ```
 
-##### d) <sup>
+##### d) &lt;sup&gt;
 
   * Isi file index.html:
 
