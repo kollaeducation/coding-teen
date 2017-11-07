@@ -9,28 +9,44 @@
 
 ---
 
-### Elemen Penilaian:
+### Objectives
+1. Peserta mampu membedakan antara **domain** dan **hosting**.
+2. Peserta mampu mengunggah website ke **hosting**.
+3. Peserta mampu menggunakan **Github** sebagai tempat penyimpanan kode dan hosting statis. (optional)
 
-#### 1. Kode
-- [x] Kebenaran kode baik
-- [x] Keterbacaan kode baik
-- [x] Hierarki kode baik
+---
 
-#### 2. Fungsional
-- [x] Elemen tersusun dengan baik
-- [x] Anchor atau link bekerja dengan baik
+### Material
 
-#### 3. User Interface (UI)
-- [x] Solid Topography
-- [x] Beautiful Typography
-- [x] Color Harmony
+#### 1. Domain dan Hosting
+* Perbedaan antara **Domain** dan **Hosting**
+* Membuat akun Domain dan Hosting gratis.
 
-#### 4. User Experience (UX)
-- [x] Easy Navigation
-- [x] Clear Information Hierarchy
+#### 2. Unggah Personal Project ke Hosting
+* Memakai cPanel atau sistem yang diberikan oleh hosting.
 
-#### 5. Information Architecture (IA)
-- [x] Hierarki informasi jelas
+#### 3. GitHub
+* Membuat akun GitHub
+* Membuat GitHub Pages
+
+---
+
+### Exercises
+1. Membuat akun hosting gratis di https://www.hostinger.co.id/.
+2. Mengunggah personal project di https://www.hostinger.co.id/.
+3. Membuat akun gratis di https://github.com/. (optional)
+4. Membuat Github Pages di https://pages.github.com/. (optional)
+
+---
+
+### Feedback
+1. Apa yang menjadi bottleneck dari **lesson 07** ini?
+2. Apa yang sebaiknya ditambah dan ditiadakan dari materi **lesson 07** ini?
+
+---
+
+### References
+* [GitHub Pages](https://pages.github.com/ "GitHub Pages")
 
 ---
 
