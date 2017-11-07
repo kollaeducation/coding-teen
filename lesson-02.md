@@ -300,9 +300,13 @@
         <link rel="stylesheet" type="text/css" href="css/style.css">
       </head>
       <body>
-        <a>
+        <a href="www.facebook.com">
           <img src="images/logo-facebook.png">
+        </a>
+        <a href="www.instagram.com">
           <img src="images/logo-instagram.png">
+        </a>
+        <a href="www.youtube.com">
           <img src="images/logo-youtube.png">
         </a>
       </body>
@@ -333,12 +337,14 @@
 
     +-- nama-folder
       |-- index.html
-      +-- images
-        |-- icon-kolla.png
+      |-- about-us.html
+      |-- contact.html
+      +-- css
+        |-- style.css
 
   ```
 
-  * Isi file index.html:
+  * Isi file index.html
 
   ```html
 
@@ -347,14 +353,139 @@
         <title>
           Internal Links
         </title>
-        <link rel="stylesheet" type="text/css" href="css/style.css">
+        <link rel="stylesheet" type="text/css" href="style.css">
       </head>
       <body>
 
+        <a href="index.html"> 
+          Home
+        </a> |
+        <a href="about-us.html">
+          About
+        </a> |
+        <a href="contact.html">
+          Contact
+        </a>
+
+        <br>
+        
+        <h1>
+          Home
+        </h1>
+
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        </p>
+
       </body>
-    </html>  
+    </html>
 
   ```
+
+  * Isi file about-us.html
+
+  ```html
+
+    <html>
+      <head>
+        <title>
+          Internal Links
+        </title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+      </head>
+      <body>
+
+        <a href="index.html"> 
+          Home
+        </a> |
+        <a href="about-us.html">
+          About
+        </a> |
+        <a href="contact.html">
+          Contact
+        </a>
+
+        <br>
+        
+        <h1>
+          About Us
+        </h1>
+
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        </p>
+
+      </body>
+    </html>
+
+  ```  
+
+  * Isi file contact.html
+
+  ```html
+
+    <html>
+      <head>
+        <title>
+          Internal Links
+        </title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+      </head>
+      <body>
+
+        <a href="index.html"> 
+          Home
+        </a> |
+        <a href="about-us.html">
+          About
+        </a> |
+        <a href="contact.html">
+          Contact
+        </a>
+
+        <br>
+
+        <h1>
+          Contact
+        </h1>
+
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        </p>
+
+      </body>
+    </html>
+
+  ```
+  * Isi file style.css
+
+  ```css
+
+  a {
+    color: #4b007a;
+  }
+
+  a:hover{
+    background-color: yellow;
+  }  
+
+  a:visited{
+    color: #7a0016;
+  }
+
+  a:active{
+    background-color: #66ffef;
+  } 
+
+  a:link{
+    color: #007a75;
+  }      
+
+  body {
+    text-align: center;
+  }
+
+  ``` 
 
 ##### c) Navigation Menus
 
@@ -364,12 +495,14 @@
 
     +-- nama-folder
       |-- index.html
-      +-- images
-        |-- icon-kolla.png
+      |-- about-us.html
+      |-- contact.html
+      +-- css
+        |-- style.css
 
   ```
 
-  * Isi file index.html:
+  * Isi file index.html
 
   ```html
 
@@ -378,14 +511,157 @@
         <title>
           Navigation Menus
         </title>
-        <link rel="stylesheet" type="text/css" href="css/style.css">
+        <link rel="stylesheet" type="text/css" href="style.css">
       </head>
       <body>
 
+        <ul>
+          <li>
+            <a href="index.html"> 
+              Home 
+            </a>
+          </li>
+          <li>
+            <a href="about-us.html">
+              About Us
+            </a>
+          </li>
+          <li>
+            <a href="contact.html">
+              Contact
+            </a>
+          </li>
+        <ul>
+
+        <h1>
+          Home
+        </h1>
+
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        </p>
+
       </body>
-    </html>  
+    </html>
 
   ```
+
+  * Isi file about-us.html
+
+  ```html
+
+    <html>
+      <head>
+        <title>
+          Navigation Menus
+        </title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+      </head>
+      <body>
+      
+        <ul>
+          <li>
+            <a href="index.html"> 
+              Home 
+            </a>
+          </li>
+          <li>
+            <a href="about-us.html">
+              About Us
+            </a>
+          </li>
+          <li>
+            <a href="contact.html">
+              Contact
+            </a>
+          </li>
+        <ul>
+
+        <h1>
+          About Us
+        </h1>
+
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        </p>
+
+      </body>
+    </html>
+
+  ```  
+
+  * Isi file contact.html
+
+  ```html
+
+    <html>
+      <head>
+        <title>
+          Navigation Menus
+        </title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+      </head>
+      <body>
+      
+        <ul>
+          <li>
+            <a href="index.html"> 
+              Home 
+            </a>
+          </li>
+          <li>
+            <a href="about-us.html">
+              About Us
+            </a>
+          </li>
+          <li>
+            <a href="contact.html">
+              Contact
+            </a>
+          </li>
+        <ul>
+
+        <h1>
+          Contact
+        </h1>
+
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        </p>
+
+    </html>
+
+  ```
+
+  * Isi file style.css
+
+  ```css
+  
+  a {
+    color: #4b007a;
+  }
+
+  a:hover{
+    background-color: yellow;
+  }  
+
+  a:visited{
+    color: #7a0016;
+  }
+
+  a:active{
+    background-color: #66ffef;
+  } 
+
+  a:link{
+    color: #007a75;
+  }      
+
+  body {
+    text-align: center;
+  }
+
+  ``` 
 
 ##### d) Open Page on New Tab
 
@@ -400,7 +676,7 @@
 
   ```
 
-  * Isi file index.html:
+  * Isi file index.html
 
   ```html
 
@@ -409,12 +685,125 @@
         <title>
           Navigation Menus
         </title>
-        <link rel="stylesheet" type="text/css" href="css/style.css">
+        <link rel="stylesheet" type="text/css" href="style.css">
       </head>
       <body>
 
+        <ul>
+          <li>
+            <a href="index.html"> 
+              Home 
+            </a>
+          </li>
+          <li>
+            <a href="about-us.html">
+              About Us
+            </a>
+          </li>
+          <li>
+            <a href="contact.html" target="_blank">
+              Contact
+            </a>
+          </li>
+        <ul>
+
+        <h1>
+          Home
+        </h1>
+
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        </p>
+
       </body>
-    </html>  
+    </html>
+
+  ```
+
+  * Isi file about-us.html
+
+  ```html
+
+    <html>
+      <head>
+        <title>
+          Navigation Menus
+        </title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+      </head>
+      <body>
+      
+        <ul>
+          <li>
+            <a href="index.html"> 
+              Home 
+            </a>
+          </li>
+          <li>
+            <a href="about-us.html">
+              About Us
+            </a>
+          </li>
+          <li>
+            <a href="contact.html" target="_blank">
+              Contact
+            </a>
+          </li>
+        <ul>
+
+        <h1>
+          About Us
+        </h1>
+
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        </p>
+
+      </body>
+    </html>
+
+  ```  
+
+  * Isi file contact.html
+
+  ```html
+
+    <html>
+      <head>
+        <title>
+          Navigation Menus
+        </title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+      </head>
+      <body>
+      
+        <ul>
+          <li>
+            <a href="index.html"> 
+              Home 
+            </a>
+          </li>
+          <li>
+            <a href="about-us.html">
+              About Us
+            </a>
+          </li>
+          <li>
+            <a href="contact.html" target="_blank">
+              Contact
+            </a>
+          </li>
+        <ul>
+
+        <h1>
+          Contact
+        </h1>
+
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        </p>
+
+    </html>
 
   ```
 
