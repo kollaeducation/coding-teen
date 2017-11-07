@@ -14,42 +14,31 @@
 
 ---
 
-### Materi
-
-#### 1. Menentukan tipe website apa yang ingin dibuat:
-* Company profile
-* Toko online
-* News
-* Dll
-
-#### 2. Mencari beberapa website yang disukai atau kompetitor:
-* Sebagai inspirasi bagi website yang akan dibuat.
-* Sebagai acuan batas bawah kualitas website yang akan dibuat.
-
-#### 3. Memetakan arsitektur informasi website:
-* Navigasi dan peletakannya
-    * Navigasi atas
-    * Navigasi bawah
-* Page atau halaman website
-    * Beranda
-    * Tentang Kami
-    * Kontak Kami
-    * Dll
+### Material
+#### 1. Header
+#### 2. Logo
+#### 3. Navigation
+#### 4. Section
+#### 5. Footer
 
 ---
 
-### Latihan
-1. Mulai membuat website. Peserta bebas menggunakan framework atau tidak.
+### Instruction
+1. Buka sublime dan mulai menulis script.
+2. Peserta diajarkan untuk mengerti cara membuat internal dan eksternal link.
+2. Peserta diajarkan untuk membuat navigasi menu.
 
 ---
 
 ### Feedback
-1. Apa yang menjadi bottleneck dari lesson 06 ini?
-2. Apa yang sebaiknya ditambah dan ditiadakan dari materi lesson 06 ini?
+1. Apa yang menjadi bottleneck dari **lesson 02** ini?
+2. Apa yang sebaiknya ditambah dan ditiadakan dari materi **lesson 02** ini?
 
 ---
 
-### Referensi
+### References
+
+
 
 ---
 
