@@ -28,18 +28,38 @@
     <html>
       <head>
         <title>
-          Insert CSS on HTML Page
+          Ordered List
         </title>
-        <link rel="stylesheet" type="text/css" href="css/style.css">
       </head>
       <body>
-        Hai
+        <ol>
+          <li>
+            Coffee
+            <ol>
+              <li>
+                Coffee 1
+              </li>
+              <li>
+                Coffee 2
+              </li>
+              <li>
+                Coffee 3
+              </li>
+            </ol>
+          </li>
+          <li>
+            Tea
+          </li>
+          <li>
+            Milk
+          </li>
+        </ol>
       </body>
     </html>
 
   ```
 
-##### b) Ordered List Bullet Style
+##### b) Ordered List Bullet Type
 
   * Isi file index.html:
 
@@ -48,12 +68,32 @@
     <html>
       <head>
         <title>
-          Insert CSS on HTML Page
+          Ordered List Bullet Type
         </title>
-        <link rel="stylesheet" type="text/css" href="css/style.css">
       </head>
       <body>
-        Hai
+        <ol type="a">
+          <li>
+          Coffee
+            <ol type="i">
+              <li>
+                Coffee 1
+              </li>
+              <li>
+                Coffee 2
+              </li>
+              <li>
+                Coffee 3
+              </li>
+            </ol>
+          </li>
+          <li>
+            Tea
+          </li>
+          <li>
+            Milk
+          </li>
+        </ol>
       </body>
     </html>
 
@@ -68,18 +108,38 @@
     <html>
       <head>
         <title>
-          Insert CSS on HTML Page
+          Unordered List
         </title>
-        <link rel="stylesheet" type="text/css" href="css/style.css">
       </head>
       <body>
-        Hai
+        <ul>
+          <li>
+            Coffee
+            <ul>
+              <li>
+                Coffee 1
+              </li>
+              <li>
+                Coffee 2
+              </li>
+              <li>
+                Coffee 3
+              </li>
+            </ul>
+          </li>
+          <li>
+            Tea
+          </li>
+          <li>
+            Milk
+          </li>
+        </ul>
       </body>
     </html>
 
   ```
 
-##### d) Unordered List Bullet Style
+##### d) Unordered List Bullet Type
 
   * Isi file index.html:
 
@@ -88,12 +148,32 @@
     <html>
       <head>
         <title>
-          Insert CSS on HTML Page
+          Unordered List Bullet Type
         </title>
-        <link rel="stylesheet" type="text/css" href="css/style.css">
       </head>
       <body>
-        Hai
+        <ul type="square">
+          <li>
+            Coffee
+            <ul type="circle">
+              <li>
+                Coffee 1
+              </li>
+              <li>
+                Coffee 2
+              </li>
+              <li>
+                Coffee 3
+              </li>
+            </ul>
+          </li>
+          <li>
+            Tea
+          </li>
+          <li>
+            Milk
+          </li>
+        </ul>
       </body>
     </html>
 
@@ -110,12 +190,13 @@
     <html>
       <head>
         <title>
-          Insert CSS on HTML Page
+          Inline Elements For Text Formating
         </title>
-        <link rel="stylesheet" type="text/css" href="css/style.css">
       </head>
       <body>
-        Hai
+        <p>
+          Artikel adalah karangan faktual secara lengkap dengan panjang tertentu yang dibuat untuk dipublikasikan (melalui koran, majalah, <em>buletin</em>, dsb) dan bertujuan menyampaikan gagasan dan fakta yang dapat meyakinkan, mendidik, dan menghibur.
+        </p>
       </body>
     </html>
 
@@ -130,52 +211,13 @@
     <html>
       <head>
         <title>
-          Insert CSS on HTML Page
+          Inline Elements For Text Formating
         </title>
-        <link rel="stylesheet" type="text/css" href="css/style.css">
       </head>
       <body>
-        Hai
-      </body>
-    </html>
-
-  ```
-
-##### c) &lt;sub&gt;
-
-  * Isi file index.html:
-
-  ```html
-
-    <html>
-      <head>
-        <title>
-          Insert CSS on HTML Page
-        </title>
-        <link rel="stylesheet" type="text/css" href="css/style.css">
-      </head>
-      <body>
-        Hai
-      </body>
-    </html>
-
-  ```
-
-##### d) &lt;sup&gt;
-
-  * Isi file index.html:
-
-  ```html
-
-    <html>
-      <head>
-        <title>
-          Insert CSS on HTML Page
-        </title>
-        <link rel="stylesheet" type="text/css" href="css/style.css">
-      </head>
-      <body>
-        Hai
+        <p>
+          <strong>Artikel<strong> adalah karangan faktual secara lengkap dengan panjang tertentu yang dibuat untuk dipublikasikan (melalui koran, majalah, <em>buletin</em>, dsb) dan bertujuan menyampaikan gagasan dan fakta yang dapat meyakinkan, mendidik, dan menghibur.
+        </p>
       </body>
     </html>
 
@@ -192,12 +234,15 @@
     <html>
       <head>
         <title>
-          Insert CSS on HTML Page
+          Font Family
         </title>
+        <link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
         <link rel="stylesheet" type="text/css" href="css/style.css">
       </head>
       <body>
-        Hai
+        <p>
+          Artikel adalah karangan faktual secara lengkap dengan panjang tertentu yang dibuat untuk dipublikasikan (melalui koran, majalah, <em>buletin</em>, dsb) dan bertujuan menyampaikan gagasan dan fakta yang dapat meyakinkan, mendidik, dan menghibur.
+        </p>
       </body>
     </html>
 
@@ -208,8 +253,7 @@
   ```css
 
   body {
-    color: yellow;
-    background-color: black;
+    font-family: 'Indie Flower', cursive;
   }
 
   ``` 
@@ -225,12 +269,15 @@
     <html>
       <head>
         <title>
-          Insert CSS on HTML Page
+          CSS Text
         </title>
         <link rel="stylesheet" type="text/css" href="css/style.css">
       </head>
       <body>
-        Hai
+        <h2>Apa itu Artikel?</h2>
+        <p>
+          Artikel adalah karangan faktual secara lengkap dengan panjang tertentu yang dibuat untuk dipublikasikan (melalui koran, majalah, buletin, dsb) dan bertujuan menyampaikan gagasan dan fakta yang dapat meyakinkan, mendidik, dan menghibur.
+        </p>
       </body>
     </html>
 
@@ -239,10 +286,12 @@
   * Isi file style.css:
 
   ```css
+  h2{
+    color: blue;
+  }
 
-  body {
-    color: yellow;
-    background-color: black;
+  p{
+    color: green;
   }
 
   ``` 
@@ -256,12 +305,15 @@
     <html>
       <head>
         <title>
-          Insert CSS on HTML Page
+          Text Color
         </title>
         <link rel="stylesheet" type="text/css" href="css/style.css">
       </head>
       <body>
-        Hai
+        <h2>Apa itu Artikel?</h2>
+        <p>
+          Artikel adalah karangan faktual secara lengkap dengan panjang tertentu yang dibuat untuk dipublikasikan (melalui koran, majalah, buletin, dsb) dan bertujuan menyampaikan gagasan dan fakta yang dapat meyakinkan, mendidik, dan menghibur.
+        </p>
       </body>
     </html>
 
@@ -271,9 +323,14 @@
 
   ```css
 
-  body {
-    color: yellow;
-    background-color: black;
+  h2{
+    color: blue;
+    text-align: center;
+  }
+
+  p{
+    color: green;
+    text-align: right;
   }
 
   ``` 
@@ -289,12 +346,16 @@
     <html>
       <head>
         <title>
-          Insert CSS on HTML Page
+          CSS Fonts
         </title>
         <link rel="stylesheet" type="text/css" href="css/style.css">
       </head>
       <body>
-        Hai
+        <h2>Apa itu Sepeda Motor?</h2>
+        <p>
+        Sepeda motor adalah kendaraan beroda dua yang digerakkan oleh sebuah mesin. Letak kedua roda sebaris lurus dan pada kecepatan tinggi sepeda motor tetap stabil disebabkan oleh gaya giroskopik. Sedangkan pada kecepatan rendah, kestabilan atau keseimbangan sepeda motor bergantung kepada pengaturan setang oleh pengendara. 
+        </p>
+        <span class="author">Heraclitus</span>
       </body>
     </html>
 
@@ -304,9 +365,8 @@
 
   ```css
 
-  body {
-    color: yellow;
-    background-color: black;
+  .author{
+    font-style: italic;
   }
 
   ``` 
@@ -320,12 +380,16 @@
     <html>
       <head>
         <title>
-          Insert CSS on HTML Page
+          CSS Fonts
         </title>
         <link rel="stylesheet" type="text/css" href="css/style.css">
       </head>
       <body>
-        Hai
+        <h2>Apa itu Sepeda Motor?</h2>
+        <p>
+        Sepeda motor adalah kendaraan beroda dua yang digerakkan oleh sebuah mesin. Letak kedua roda sebaris lurus dan pada kecepatan tinggi sepeda motor tetap stabil disebabkan oleh gaya giroskopik. Sedangkan pada kecepatan rendah, kestabilan atau keseimbangan sepeda motor bergantung kepada pengaturan setang oleh pengendara. 
+        </p>
+        <span class="author">Heraclitus</span>
       </body>
     </html>
 
@@ -335,9 +399,12 @@
 
   ```css
 
-  body {
-    color: yellow;
-    background-color: black;
+  body{
+    font-size: 14px;
+  }
+
+  .author{
+    font-style: italic;
   }
 
   ``` 
@@ -351,12 +418,16 @@
     <html>
       <head>
         <title>
-          Insert CSS on HTML Page
+          CSS Fonts
         </title>
         <link rel="stylesheet" type="text/css" href="css/style.css">
       </head>
       <body>
-        Hai
+        <h2>Apa itu Sepeda Motor?</h2>
+        <p>
+        <span class="tebal">Sepeda motor</span> adalah kendaraan beroda dua yang digerakkan oleh sebuah mesin. Letak kedua roda sebaris lurus dan pada kecepatan tinggi sepeda motor tetap stabil disebabkan oleh gaya giroskopik. Sedangkan pada kecepatan rendah, kestabilan atau keseimbangan sepeda motor bergantung kepada pengaturan setang oleh pengendara. 
+        </p>
+        <span class="author">Heraclitus</span>
       </body>
     </html>
 
@@ -366,10 +437,19 @@
 
   ```css
 
-  body {
-    color: yellow;
-    background-color: black;
+
+  body{
+    font-size: 14px;
   }
+
+  .author{
+    font-style: italic;
+  }
+
+  .tebal{
+    font-weight: bolder;
+  }
+
 
   ``` 
 
@@ -382,14 +462,19 @@
     <html>
       <head>
         <title>
-          Insert CSS on HTML Page
+          CSS Fonts
         </title>
         <link rel="stylesheet" type="text/css" href="css/style.css">
       </head>
       <body>
-        Hai
+        <h2>Apa itu Sepeda Motor?</h2>
+        <p>
+        <span class="tebal">Sepeda motor</span> adalah kendaraan beroda dua yang digerakkan oleh sebuah mesin. Letak kedua roda sebaris lurus dan pada kecepatan tinggi sepeda motor tetap stabil disebabkan oleh gaya giroskopik. Sedangkan pada kecepatan rendah, kestabilan atau keseimbangan sepeda motor bergantung kepada pengaturan setang oleh pengendara. 
+        </p>
+        <span class="author">Heraclitus</span>
       </body>
     </html>
+
 
   ```
 
@@ -397,9 +482,20 @@
 
   ```css
 
-  body {
-    color: yellow;
-    background-color: black;
+  body{
+    font-size: 14px;
+  }
+
+  .author{
+    font-style: italic;
+  }
+
+  .tebal{
+    font-weight: bolder;
+  }
+
+  h2{
+    font-variant: small-caps;
   }
 
   ``` 
@@ -516,7 +612,7 @@
 ---
 
 ### References
-
+1. <a href="https://fonts.google.com/">Link Google Font</a>
 
 ---
 | [Home][0] | [01][1] | [02][2] | [03][3] | [04][4] | [05][5] | [06][6] | [07][7] | [08][8] | [09][9] | [10][10] | [11][11] | [Presentation][12] |
