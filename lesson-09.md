@@ -5,32 +5,36 @@
 
 ---
 
-### LESSON 08: PERSONAL PROJECT
+### LESSON 09: PERSONAL PROJECT
 
 ---
 
-### Elemen Penilaian:
+### Objectives
+1. Peserta mulai mengerjakan **Personal Project**.
 
-#### 1. Kode
-- [x] Kebenaran kode baik
-- [x] Keterbacaan kode baik
-- [x] Hierarki kode baik
+---
 
-#### 2. Fungsional
-- [x] Elemen tersusun dengan baik
-- [x] Anchor atau link bekerja dengan baik
+### Materi
 
-#### 3. User Interface (UI)
-- [x] Solid Topography
-- [x] Beautiful Typography
-- [x] Color Harmony
+#### 1. Menentukan tipe website apa yang ingin dibuat:
+* Company profile
+* Toko online
+* News
+* Dll
 
-#### 4. User Experience (UX)
-- [x] Easy Navigation
-- [x] Clear Information Hierarchy
+#### 2. Mencari beberapa website yang disukai atau kompetitor:
+* Sebagai inspirasi bagi website yang akan dibuat.
+* Sebagai acuan batas bawah kualitas website yang akan dibuat.
 
-#### 5. Information Architecture (IA)
-- [x] Hierarki informasi jelas
+#### 3. Memetakan arsitektur informasi website:
+* Navigasi dan peletakannya
+    * Navigasi atas
+    * Navigasi bawah
+* Page atau halaman website
+    * Beranda
+    * Tentang Kami
+    * Kontak Kami
+    * Dll
 
 ---
 
@@ -50,3 +54,4 @@
 [10]: lesson-10.md "Personal Project Consultation"
 [11]: lesson-11.md "Domain, Hosting dan Github Pages"
 [12]: lesson-12.md "Presentation"
+
