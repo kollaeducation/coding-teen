@@ -257,7 +257,7 @@
 
 ##### h) Image
 
-  *Struktur Folder
+  * Struktur Folder
 
   ```text
 
