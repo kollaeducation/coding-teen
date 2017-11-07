@@ -19,6 +19,8 @@
     * meta description
 3. Peserta mampu mengenali beberapa tag yang sering digunakan dalam pembuatan website.   
 
+---
+
 ### Tools
 1. **Windows/Mac/Linux**: [Sublime](https://www.sublimetext.com)
 2. **Browser**:
@@ -28,6 +30,8 @@
     * Opera
     * Safari
     * Dll
+
+---
 
 ### Material
 
@@ -80,6 +84,8 @@
     * Inspect Element
     * Web Developer
     * etc
+
+---
 
 #### 2. Pengenalan Sintaks HTML
 
