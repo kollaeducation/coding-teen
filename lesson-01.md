@@ -19,6 +19,8 @@
     * meta description
 3. Peserta mampu mengenali beberapa tag yang sering digunakan dalam pembuatan website.   
 
+---
+
 ### Tools
 1. **Windows/Mac/Linux**: [Sublime](https://www.sublimetext.com)
 2. **Browser**:
@@ -29,8 +31,9 @@
     * Safari
     * Dll
 
-### Material
+---
 
+### Material
 #### 1. Web Technology
 
 ##### a) Frontend and Backend Differences
@@ -40,16 +43,19 @@
 <img src="https://scontent-sin6-2.xx.fbcdn.net/v/t1.0-9/23231152_10211176010504169_5875096317697632587_n.jpg?oh=d1aedd981b2fefb41f708de657006529&oe=5A644978">
 
 ##### b) Web Development Technologies 
+
 * Front-end:
     * HTML
     * CSS
     * JavaScript
+
 * Back-end:
     * PHP
     * Python
     * Ruby
     * Java
     * etc
+
 * Database:
     * MySQL
     * PostgreSQL
@@ -57,12 +63,14 @@
     * etc
 
 ##### c) Web Development Tools
+
 * Text Editor:
     * Notepad
     * Sublime Text
     * Atom
     * Brackets
     * etc
+
 * Browser:
     * Google Chrome
     * Mozilla Firefox
@@ -70,14 +78,28 @@
     * Opera
     * Safari
     * etc
+
 * Browser Extension / Plugin (optional):
     * Inspect Element
     * Web Developer
     * etc
 
 #### 2. Pengenalan Sintaks HTML
-a) Basic Web Structure
+##### a) Struktur Folder
+
+  ```text
+
+    +-- nama-folder
+      |-- index.html
+
+  ```
+
+##### b) Basic Web Structure
+
+  * Isi file index.html:
+
   ```html
+
     <html>
       <head>
 
@@ -86,65 +108,185 @@ a) Basic Web Structure
 
       </body>
     </html>
+
   ```
 
-b) Title
+##### c) Title
+
+  * Isi file index.html:
+
   ```html
+
     <html>
       <head>
         <title>
-          Kolla
+          Jago Membuat Website Selama Dua Minggu
         </title>
       </head>
       <body>
         
       </body>
     </html>
+
   ```
 
-b) Meta Description
+##### d) Meta Description
+
+  * Isi file index.html:
+
   ```html
+
     <html>
       <head>
         <title>
-          Kolla
+          Jago Membuat Website Selama Dua Minggu
         </title>
-        <meta name="description" content="All about service and product Kolla">
+        <meta name="description" content="Lembaga edukasi yang menyediakan pelatihan pembuatan website statis selama 12 Kali pertemuan dengan menggunakan metode literasi code.">
       </head>
       <body>
         
       </body>
     </html>
+
   ```  
 
-c) Image
+##### e) Heading
+
+  * Isi file index.html:
+
   ```html
-  <img src="nama_folder/nama_file.jpg">
-  <img src="nama_folder/nama_file.png">
-  <img src="nama_folder/nama_file.gif">
+
+    <html>
+      <head>
+        <title>
+          Belajar Membuat Heading
+        </title>
+      </head>
+      <body>
+        <h1>Heading 1</h1>
+        <h2>Heading 2</h2>
+        <h3>Heading 3</h3>
+        <h4>Heading 4</h4>
+        <h5>Heading 5</h5>
+        <h6>Heading 6</h6>
+      </body>
+    </html>
+
   ```
 
-d) Anchor / Link
+##### f) Paragraph
+
+
   ```html
-  <a href="http://google.com">Ini text link menuju Google</a>
+
+    <html>
+      <head>
+        <title>
+          Belajar Membuat Paragraph
+        </title>
+      </head>
+      <body>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        </p>
+      </body>
+    </html>
+
   ```
-  ```html
-  <a href="about-us.html">Ini text link menuju file about-us.html</a>
+  
+##### g) Anchor / Link
+
+
+  * Struktur Folder
+
+  ```text
+
+    +-- nama-folder
+      |-- index.html
+      |-- about-us.html
+
   ```
 
-e) Heading
+  * Isi file index.html:
+
   ```html
-  <h1>Heading 1</h1>
-  <h2>Heading 2</h2>
-  <h3>Heading 3</h3>
-  <h4>Heading 4</h4>
-  <h5>Heading 5</h5>
-  <h6>Heading 6</h6>
+
+    <html>
+      <head>
+        <title>
+          Belajar Link
+        </title>
+      </head>
+      <body>
+        <a href="http://google.com">Ini text link menuju Google</a>
+        <br>
+        <a href="index.html">Ini text link menuju file index.html</a>
+        <br>
+        <a href="about-us.html">Ini text link menuju file about-us.html</a>
+        <h1>
+          Ini halaman index
+        </h1>
+      </body>
+    </html>
+
   ```
 
-f) Paragraph
+  * Isi file about-us.html:
+
   ```html
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+
+    <html>
+      <head>
+        <title>
+          Belajar Link
+        </title>
+      </head>
+      <body>
+        <a href="http://google.com">Ini text link menuju Google</a>
+        <br>
+        <a href="index.html">Ini text link menuju file index.html</a>
+        <br>
+        <a href="about-us.html">Ini text link menuju file about-us.html</a>
+        <h1>
+          Ini halaman about us
+        </h1>
+      </body>
+    </html>
+
+  ```
+
+##### h) Image
+
+  * Struktur Folder
+
+  ```text
+
+    +-- nama-folder
+      |-- index.html
+      +-- images
+        |-- doraemon.jpg
+        |-- doraemon.png
+        |-- doraemon.gif
+
+  ```
+
+  * Isi file index.html:
+
+  ```html
+
+    <html>
+      <head>
+        <title>
+          Menyisipkan Gambar Pada Halaman Website
+        </title>
+      </head>
+      <body>
+        <img src="images/doraemon.jpg">
+        <img src="images/doraemon.png">
+        <img src="images/doraemon.gif">
+      </body>
+    </html>
+
   ```
 
 ---

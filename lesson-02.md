@@ -10,15 +10,18 @@
 ---
 
 ### Objectives
-1. Peserta mampu membuat **HTML** dan **CSS** dasar dengan text editor Brackets.
-2. Peserta mengerti pemisahan **HTML sebagai struktur** dan **CSS sebagai presentasi** dalam website.
-
----
+1. Peserta mampu memetakan dan membedakan berbagai macam teknologi dalam pembuatan website.
+2. Peserta mampu mengenali struktur dasar layout dalam suatu website.
+    * html
+    * head
+    * body
+    * title
+    * meta description
+3. Peserta mampu mengenali beberapa tag yang sering digunakan dalam pembuatan website.   
 
 ### Tools
-1. **Windows**: [Brackets](http://brackets.io/)
-2. **Mac**: TextEdit
-3. **Browser**:
+1. **Windows/Mac/Linux**: [Sublime](https://www.sublimetext.com)
+2. **Browser**:
     * Google Chrome
     * Internet Explorer
     * Mozilla Firefox
@@ -26,104 +29,258 @@
     * Safari
     * Dll
 
----
-
 ### Material
 
-#### 1. HTML
-* Heading
-  ```html
-  <h1>Heading 1</h1>
-  <h2>Heading 2</h2>
-  <h3>Heading 3</h3>
-  <h4>Heading 4</h4>
-  <h5>Heading 5</h5>
-  <h6>Heading 6</h6>
+#### 1. Eksternal CSS
+
+##### a) Insert CSS on HTML Page
+  * Siapkan sebuah folder dengan nama eksternal-css.
+  * Di dalam folder eksternal-css, buat sebuah file dengan nama index.html dan sebuah folder dengan nama css.
+  * Di dalam folder css buat file dengan nama style.css.
+  * Berikut struktur file dan folder yang ada di dalam folder eksternal-css:
+
+  ```text
+  |-- eksternal-css
+        |-- index.html
+        |-- css
+              |-- style.css
   ```
-* Anchor / Link
+  
+  * Isi file index.html:
+
   ```html
-  <a href="http://google.com">Ini text link menuju Google</a>
-  ```
-  ```html
-  <a href="about-us.html">Ini text link menuju file about-us.html</a>
-  ```
-* Paragraph
-  ```html
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-  ```
-* List
-  ```html
-  <ul>
-    <li>Unordered list 1</li>
-    <li>Unordered list 2</li>
-  </ul>
-  ```
-  ```html
-  <ol>
-    <li>Ordered list 1</li>
-    <li>Ordered list 2</li>
-  </ol>
-  ```
-* Image
-  ```html
-  <img src="nama_folder/nama_file.jpg">
-  <img src="nama_folder/nama_file.png">
-  <img src="nama_folder/nama_file.gif">
-  ```
-* Video
-  ```html
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/-We_dYsLTtY" frameborder="0" allowfullscreen></iframe>
-  ```
-* Form
-  ```html
-  <form>
-    <input type="text" name="search">
-    <input type="submit" value="Submit">
-  </form>
+    <html>
+      <head>
+        <title>
+          Kolla
+        </title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+      </head>
+      <body>
+
+      </body>
+    </html>
   ```
 
-#### 2. CSS
-* Class
+  * Isi file style.css:
+
   ```css
-  .header {
-    background-color: #ff0000;
+  body {
+    color: #4c4c4c;
+    background-color: #f9fbff;
+  }
+  ``` 
+
+##### b) Styling heading
+  * Masih di dalam file index.html yang sama, tambahkan tag heading 1, heading 2, dan heading 3 seperti pada tulisan di bawah ini:
+
+  ```html
+    <html>
+      <head>
+        <title>
+          Styling heading
+        </title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+      </head>
+      <body>
+        <h1>Judul</h1>
+
+        <h2>Sub Judul</h2>
+
+        <h3>Poin 1</h3>
+        
+        <h3>Poin 2</h3>
+        
+        <h3>Poin 3</h3>
+
+      </body>
+    </html>
+  ```
+
+  * Tambahkan style untuk heading dalam file style.css
+
+  ```css
+  body {
+    color: #4c4c4c;
+    background-color: #f9fbff;
   }
 
-  .logo {
-    color: #000;
-    font-size: 20px;
+  h1{
+    color: blue;
+  }
+
+  h2{
+    color: red;
+  }
+
+  h3{
+    color: green;
+  }
+  ``` 
+
+##### c) Styling pragraph
+  * Masih di dalam file index.html yang sama, tambahkan tag paragraf seperti pada tulisan di bawah ini:
+
+  ```html
+    <html>
+      <head>
+        <title>
+          Styling pragraph
+        </title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+      </head>
+      <body>
+        <h1>Judul</h1>
+
+        <h2>Sub Judul</h2>
+
+        <h3>Poin 1</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        
+        <h3>Poin 2</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        
+        <h3>Poin 3</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+
+      </body>
+    </html>
+  ```
+
+  * Tambahkan style untuk paragraf dalam file style.css
+
+  ```css
+  body {
+    color: #4c4c4c;
+    background-color: #f9fbff;
+  }
+
+  h1{
+    color: blue;
+  }
+
+  h2{
+    color: red;
+  }
+
+  h3{
+    color: green;
+  }
+
+  p{
+    color: purple;
   }
   ```
+
+##### d) Styling anchor
+  * Masih di dalam file index.html yang sama, tambahkan tag anchor yang akan memanggil eksternal page google, facebook, dan instagram:
+
+  ```html
+    <html>
+      <head>
+        <title>
+          Styling pragraph
+        </title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+      </head>
+      <body>
+        <h1>Judul</h1>
+
+        <h2>Sub Judul</h2>
+
+        <h3>Poin 1</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        
+        <h3>Poin 2</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        
+        <h3>Poin 3</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        <a href="https://www.google.co.id"> Google </a> | <a href="https://www.facebook.com/"> Facebook </a> | <a href="https://www.instagram.com"> Instagram</a>
+
+      </body>
+    </html>  
+  ```
+
+  * Tambahkan style untuk anchor dalam file style.css
+
+  ```css
+  body {
+    color: #4c4c4c;
+    background-color: #f9fbff;
+  }
+
+  h1{
+    color: blue;
+  }
+
+  h2{
+    color: red;
+  }
+
+  h3{
+    color: green;
+  }
+
+  p{
+    color: purple;
+  }
+  a {
+    color: #4b007a;
+  }
+
+  a:hover{
+    background-color: yellow;
+  }  
+
+  a:visited{
+    color: #7a0016;
+  }
+
+  a:active{
+    background-color: #66ffef;
+  } 
+
+  a:link{
+    color: #007a75;
+  }      
+
+  body {
+    text-align: center;
+  }
+  ```  
+
+#### 2. Favicon
+##### a) Insert Favicon on HTML Page
+
+#### 3 Paging
+##### a) Navigation menus
+##### b) Eksternal links
+##### c) Internal links
+##### d) Open Page on New Tab
 
 ---
 
-### Execises
-1. Buat file HTML dengan:
-    * Logo
-    * Navigation anchor / link
-    * Heading
-    * Content
-    * Images
-    * Video
-2. Buat file CSS eksternal dengan:
-    * Class
-    * Aturan:
-      * background-color
-      * color
-      * font-size
-      * dll
+### Instruction
+1. Buka beberapa website. Tunjukkan kepada peserta bagian struktur dasar dari setiap website:
+    * html
+    * head
+    * body
+    * title
+    * meta description
+2. Peserta diajarkan untuk mengerti perbedaan dari penomoran pada heading, menyisipkan link pada teks, dan membuat paragraf.
+2. Peserta diajarkan untuk menyisipkan gambar.
 
 ---
 
 ### Feedback
-1. Apa yang menjadi bottleneck dari **lesson 02** ini?
-2. Apa yang sebaiknya ditambah dan ditiadakan dari materi **lesson 02** ini?
+1. Apa yang menjadi bottleneck dari **lesson 01** ini?
+2. Apa yang sebaiknya ditambah dan ditiadakan dari materi **lesson 01** ini?
 
 ---
 
 ### References
-1. [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304 "Intro to HTML and CSS")
-2. [HTML & CSS for Beginners](https://www.codecademy.com/en/tracks/htmlcss "HTML & CSS for Beginners")
+
 
 ---
 
