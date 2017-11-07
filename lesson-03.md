@@ -10,95 +10,502 @@
 ---
 
 ### Objectives
-1. Peserta mengerti struktur website dibentuk dari **HTML** `div`, dibantu **CSS** `float`.
-2. Peserta mampu membuat baris dan kolom menggunakan **HTML** `div` dan **CSS** `float`.
+1. Peserta mampu membuat list.
+2. Peserta mengerti text dan font formating.
+3. Peserta mengerti style pada text, font, dan list.
 
 ---
 
 ### Material
+#### 1. Lists
 
-#### 1. HTML dan CSS 1 Kolom
-* HTML `index.html`
-  ```html
-  <div class="parent">
-    Ini div 1 kolom
-  </div>
-  ```
-* CSS `style.css`
-  ```css
-  .parent {
-    background-color: #ff0000;
-    height: 200px;
-    width: 100%;
-  }
-  ```
+##### a) Ordered List
 
-#### 2. HTML dan CSS 2 Kolom
-* HTML `index.html`
+  * Isi file index.html:
+
   ```html
-  <div class="parent">
-      <div class="child1">Ini section 1</div>
-      <div class="child2">Ini section 2</div>
-  </div>
-  ```
-* CSS `style.css`
-  ```css
-  .parent {
-      background-color: aqua;
-  }
-  .child1 {
-      background-color: brown;
-      float: left;
-      width: 20%;
-  }
-  .child2 {
-      background-color: cornflowerblue;
-      float: right;
-      width: 80%;
-  }
+
+    <html>
+      <head>
+        <title>
+          Insert CSS on HTML Page
+        </title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+      </head>
+      <body>
+        Hai
+      </body>
+    </html>
+
   ```
 
-#### 3. HTML dan CSS 3 Kolom
-* HTML `index.html`
+##### b) Ordered List Bullet Style
+
+  * Isi file index.html:
+
   ```html
-  <div class="parent2">
-      <div class="childa">Ini section 1</div>
-      <div class="childb">Ini section 2</div>
-      <div class="childc">Ini section 3</div>
-  </div>
+
+    <html>
+      <head>
+        <title>
+          Insert CSS on HTML Page
+        </title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+      </head>
+      <body>
+        Hai
+      </body>
+    </html>
+
   ```
-* CSS `style.css`
+
+##### c) Unordered List
+
+  * Isi file index.html:
+
+  ```html
+
+    <html>
+      <head>
+        <title>
+          Insert CSS on HTML Page
+        </title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+      </head>
+      <body>
+        Hai
+      </body>
+    </html>
+
+  ```
+
+##### d) Unordered List Bullet Style
+
+  * Isi file index.html:
+
+  ```html
+
+    <html>
+      <head>
+        <title>
+          Insert CSS on HTML Page
+        </title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+      </head>
+      <body>
+        Hai
+      </body>
+    </html>
+
+  ```
+
+#### 2. Inline Elements For Text Formating
+
+##### a) <em>
+
+  * Isi file index.html:
+
+  ```html
+
+    <html>
+      <head>
+        <title>
+          Insert CSS on HTML Page
+        </title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+      </head>
+      <body>
+        Hai
+      </body>
+    </html>
+
+  ```
+
+##### b) <strong>
+
+  * Isi file index.html:
+
+  ```html
+
+    <html>
+      <head>
+        <title>
+          Insert CSS on HTML Page
+        </title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+      </head>
+      <body>
+        Hai
+      </body>
+    </html>
+
+  ```
+
+##### c) <sub>
+
+  * Isi file index.html:
+
+  ```html
+
+    <html>
+      <head>
+        <title>
+          Insert CSS on HTML Page
+        </title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+      </head>
+      <body>
+        Hai
+      </body>
+    </html>
+
+  ```
+
+##### d) <sup>
+
+  * Isi file index.html:
+
+  ```html
+
+    <html>
+      <head>
+        <title>
+          Insert CSS on HTML Page
+        </title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+      </head>
+      <body>
+        Hai
+      </body>
+    </html>
+
+  ```
+
+#### 3. Fonts
+
+##### a) Font Family
+
+  * Isi file index.html:
+
+  ```html
+
+    <html>
+      <head>
+        <title>
+          Insert CSS on HTML Page
+        </title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+      </head>
+      <body>
+        Hai
+      </body>
+    </html>
+
+  ```
+
+  * Isi file style.css:
+
   ```css
-  .parent2 {
-      background-color: blueviolet;
-      margin-top: 50px;
+
+  body {
+    color: yellow;
+    background-color: black;
   }
-  .childa {
-      background-color: bisque;
-      float: left;
-      width: 33%;
-  }
-  .childb {
-      background-color: chocolate;
-      float: left;
-      width: 34%;
-  }
-  .childc {
-      background-color: cadetblue;
-      float: left;
-      width: 33%;
-  }
+
+  ``` 
+
+#### 4. CSS Text
+
+##### a) Text Color
+
+  * Isi file index.html:
+
+  ```html
+
+    <html>
+      <head>
+        <title>
+          Insert CSS on HTML Page
+        </title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+      </head>
+      <body>
+        Hai
+      </body>
+    </html>
+
   ```
+
+  * Isi file style.css:
+
+  ```css
+
+  body {
+    color: yellow;
+    background-color: black;
+  }
+
+  ``` 
+
+##### b) Text Alignment
+
+  * Isi file index.html:
+
+  ```html
+
+    <html>
+      <head>
+        <title>
+          Insert CSS on HTML Page
+        </title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+      </head>
+      <body>
+        Hai
+      </body>
+    </html>
+
+  ```
+
+  * Isi file style.css:
+
+  ```css
+
+  body {
+    color: yellow;
+    background-color: black;
+  }
+
+  ``` 
+
+#### 5. CSS Fonts
+
+##### a) Font Style
+
+  * Isi file index.html:
+
+  ```html
+
+    <html>
+      <head>
+        <title>
+          Insert CSS on HTML Page
+        </title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+      </head>
+      <body>
+        Hai
+      </body>
+    </html>
+
+  ```
+
+  * Isi file style.css:
+
+  ```css
+
+  body {
+    color: yellow;
+    background-color: black;
+  }
+
+  ``` 
+
+##### b) Font Size
+
+  * Isi file index.html:
+
+  ```html
+
+    <html>
+      <head>
+        <title>
+          Insert CSS on HTML Page
+        </title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+      </head>
+      <body>
+        Hai
+      </body>
+    </html>
+
+  ```
+
+  * Isi file style.css:
+
+  ```css
+
+  body {
+    color: yellow;
+    background-color: black;
+  }
+
+  ``` 
+
+##### c) Font Weight
+
+  * Isi file index.html:
+
+  ```html
+
+    <html>
+      <head>
+        <title>
+          Insert CSS on HTML Page
+        </title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+      </head>
+      <body>
+        Hai
+      </body>
+    </html>
+
+  ```
+
+  * Isi file style.css:
+
+  ```css
+
+  body {
+    color: yellow;
+    background-color: black;
+  }
+
+  ``` 
+
+##### d) Font Variant
+
+  * Isi file index.html:
+
+  ```html
+
+    <html>
+      <head>
+        <title>
+          Insert CSS on HTML Page
+        </title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+      </head>
+      <body>
+        Hai
+      </body>
+    </html>
+
+  ```
+
+  * Isi file style.css:
+
+  ```css
+
+  body {
+    color: yellow;
+    background-color: black;
+  }
+
+  ``` 
+
+#### 6. CSS Lists
+
+##### a) List Style Type
+
+  * Isi file index.html:
+
+  ```html
+
+    <html>
+      <head>
+        <title>
+          Insert CSS on HTML Page
+        </title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+      </head>
+      <body>
+        Hai
+      </body>
+    </html>
+
+  ```
+
+  * Isi file style.css:
+
+  ```css
+
+  body {
+    color: yellow;
+    background-color: black;
+  }
+
+  ``` 
+
+##### b) List Style Image
+
+  * Isi file index.html:
+
+  ```html
+
+    <html>
+      <head>
+        <title>
+          Insert CSS on HTML Page
+        </title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+      </head>
+      <body>
+        Hai
+      </body>
+    </html>
+
+  ```
+
+  * Isi file style.css:
+
+  ```css
+
+  body {
+    color: yellow;
+    background-color: black;
+  }
+
+  ``` 
+
+##### c) List Style Position
+
+  * Isi file index.html:
+
+  ```html
+
+    <html>
+      <head>
+        <title>
+          Insert CSS on HTML Page
+        </title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+      </head>
+      <body>
+        Hai
+      </body>
+    </html>
+
+  ```
+
+  * Isi file style.css:
+
+  ```css
+
+  body {
+    color: yellow;
+    background-color: black;
+  }
+
+  ``` 
 
 ---
 
-### File
-[Download file for this lesson: lesson-03.zip](files/lesson-03.zip)
-
----
-
-### Latihan
-1. Peserta membuat 3 dan 4 kolom bagian website menggunakan **HTML** `<div>` dan **CSS** `float`.
+### Instruction
+1. Buka sublime dan mulai menulis script.
+2. Peserta diajarkan untuk mengerti cara membuat list.
+2. Peserta diajarkan untuk mengerti cara melakukan text dan font formating.
+3. Peserta diajarkan untuk bisa memberikan style pada text, font, dan list.
 
 ---
 
@@ -108,10 +515,10 @@
 
 ---
 
-### Referensi
+### References
+
 
 ---
-
 | [Home][0] | [01][1] | [02][2] | [03][3] | [04][4] | [05][5] | [06][6] | [07][7] | [08][8] | [09][9] | [10][10] | [11][11] | [Presentation][12] |
 |:---------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:--------:|:--------:|:------------------:|
 
