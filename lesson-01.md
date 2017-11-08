@@ -311,6 +311,11 @@
 
 ---
 
+### Example Code
+* Untuk contoh penulisan code pada kurikulum ini bisa di download pada <a href="https://github.com/gitacitrap/coding-teen-example-code">LINK INI</a>.
+
+---
+
 ### Instruction
 1. Buka beberapa website. Tunjukkan kepada peserta bagian struktur dasar dari setiap website:
     * html
