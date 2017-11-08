@@ -89,15 +89,10 @@
       </head>
       <body>
         <h1>Judul</h1>
-
         <h2>Sub Judul</h2>
-
         <h3>Poin 1</h3>
-        
         <h3>Poin 2</h3>
-        
         <h3>Poin 3</h3>
-
       </body>
     </html>
 
@@ -142,15 +137,12 @@
         <p class="pull-right">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
         </p>
-        
         <p>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
         </p>
-        
         <p class="pull-right">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
         </p>
-
       </body>
     </html>
 
@@ -185,15 +177,12 @@
         <link rel="stylesheet" type="text/css" href="css/style.css">
       </head>
       <body>
-
         <a href="https://www.google.co.id">
           Google 
         </a> 
-
         <a href="https://www.facebook.com">
           Facebook 
         </a>  
-
         <a href="https://www.instagram.com"> 
           Instagram
         </a>
@@ -355,7 +344,6 @@
         <link rel="stylesheet" type="text/css" href="css/style.css">
       </head>
       <body>
-
         <a href="index.html"> 
           Home
         </a> |
@@ -365,17 +353,13 @@
         <a href="contact.html">
           Contact
         </a>
-
         <br>
-        
         <h1>
           Home
         </h1>
-
         <p>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
         </p>
-
       </body>
     </html>
 
@@ -393,7 +377,6 @@
         <link rel="stylesheet" type="text/css" href="css/style.css">
       </head>
       <body>
-
         <a href="index.html"> 
           Home
         </a> |
@@ -403,17 +386,13 @@
         <a href="contact.html">
           Contact
         </a>
-
         <br>
-        
         <h1>
           About Us
         </h1>
-
         <p>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
         </p>
-
       </body>
     </html>
 
@@ -431,7 +410,6 @@
         <link rel="stylesheet" type="text/css" href="css/style.css">
       </head>
       <body>
-
         <a href="index.html"> 
           Home
         </a> |
@@ -441,17 +419,13 @@
         <a href="contact.html">
           Contact
         </a>
-
         <br>
-
         <h1>
           Contact
         </h1>
-
         <p>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
         </p>
-
       </body>
     </html>
 
@@ -513,7 +487,6 @@
         <link rel="stylesheet" type="text/css" href="css/style.css">
       </head>
       <body>
-
         <ul>
           <li>
             <a href="index.html"> 
@@ -536,7 +509,6 @@
           <h1>
             Home
           </h1>
-
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
           </p>
@@ -558,7 +530,6 @@
         <link rel="stylesheet" type="text/css" href="css/style.css">
       </head>
       <body>
-      
         <ul>
           <li>
             <a href="index.html"> 
@@ -581,7 +552,6 @@
           <h1>
             About Us
           </h1>
-
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
           </p>
@@ -603,7 +573,6 @@
         <link rel="stylesheet" type="text/css" href="css/style.css">
       </head>
       <body>
-      
         <ul>
           <li>
             <a href="index.html"> 
@@ -626,7 +595,6 @@
             <h1>
               Contact
             </h1>
-
             <p>
               Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
             </p>
@@ -696,19 +664,15 @@
         <link rel="stylesheet" type="text/css" href="css/style.css">
       </head>
       <body>
-
         <a href="https://www.google.co.id" target="_blank">
           Google 
         </a> 
-
         <a href="https://www.facebook.com" target="_blank">
           Facebook 
         </a>  
-
         <a href="https://www.instagram.com" target="_blank"> 
           Instagram
         </a>
-
       </body>
     </html>  
 
