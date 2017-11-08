@@ -55,7 +55,7 @@
 
   ```html
 
-	<input type="date" name="tanggal" placeholder="Tanggal">
+	<input type="date" name="tanggal_lahir" placeholder="Tanggal Lahir">
 
   ```
 
@@ -65,8 +65,10 @@
 
   ```html
 
-  <input type="checkbox" name="kendaraan_1" value="Sepedah"> Sepedah
-  <input type="checkbox" name="kendaraan_2" value="Mobil"> Mobil 
+  <input type="checkbox" name="hobi[]" value="Sepak Bola"> Sepak Bola
+  <input type="checkbox" name="hobi[]" value="Berenang"> Berenang 
+  <input type="checkbox" name="hobi[]" value="Masak"> Masak 
+  <input type="checkbox" name="hobi[]" value="Menggambar"> Menggambar 
 
   ```
 
@@ -87,16 +89,29 @@
 
   ```html
 
-	<select name="jenis_mobil">
-	  <option value="volvo">Volvo</option>
-	  <option value="saab">Saab</option>
-	  <option value="mercedes">Mercedes</option>
-	  <option value="audi">Audi</option>
+	<select name="kelas">
+	  <option value="9">IX</option>
+	  <option value="10">X</option>
+	  <option value="11">XI</option>
 	</select>
 
   ```
 
-##### h) Text Area
+  ##### h) Multiple Select
+
+  * Isi file index.html:
+
+  ```html
+
+  <select name="hobi">
+    <option value="Sepak Bola">Sepak Bola</option>
+    <option value="Berenang">Berenang</option>
+    <option value="Masak">Masak</option>
+  </select>
+
+  ```
+
+##### i) Text Area
 
   * Isi file index.html:
 
@@ -108,7 +123,7 @@
 
   ```
 
-##### i) Button
+##### j) Button
 
   * Isi file index.html:
 
@@ -123,13 +138,13 @@
 
 #### 2. Embed Google Form
 
-##### b) Cara Membuat Google Form
+##### a) Cara Membuat Google Form
 
 1. Login dalam akun google Anda.
 
 2. Masuk ke dalam google drive dengan klik <a href="https://drive.google.com">LINK INI</a>
 
-3. Setelah masuk Google Drive, silahkan fokus pada pojok kanan atas tempat baris menu berada kemudian klik pada tombol New > More > Google Forms.
+3. Setelah masuk Google Drive, silahkan fokus pada pojok kanan atas tempat baris menu berada kemudian klik pada tombol <b>New</b> > <b>More</b> > <b>Google Forms</b>.
 
 <img src="https://www.maxmanroe.com/wp-content/uploads/2015/05/gform_1.jpg">
 
@@ -150,24 +165,40 @@ yang saya ganti dengan Nama itu adalah form pertama yang disediakan.
 
 <img src="https://www.maxmanroe.com/wp-content/uploads/2015/05/gform_5.jpg">
 
-8. Setelah selesai membuat form pendaftaran, klik tombol <b>"SEND"</b>.
+8. Lengkapi form dengan berbagai jenis informasi yang ingin apa pada form pendaftaran.
 
-9. Kemudian pada Send Form Klik tab Embed seperti pada gambar di bawah ini.
+9. Setelah selesai membuat form pendaftaran, klik tombol <b>"SEND"</b>.
+
+10. Kemudian pada Send Form Klik tab Embed seperti pada gambar di bawah ini.
 
 <img src="https://scontent-sin6-2.xx.fbcdn.net/v/t1.0-9/23244584_10211190429664639_9222370049142844422_n.jpg?oh=481cc22fba12aeda334cd130190aef22&oe=5A9DD9C5">
 
-10. Copy tulisan yang ada pada text field Embed HTML.
+11. Copy tulisan yang ada pada text field Embed HTML.
 
+* Video tutorial membuat Google Form
 
-##### c) Cara Menyisipkan Google Form Pada Website
+<iframe width="854" height="480" src="https://www.youtube.com/embed/FvZPNIPFCs8" frameborder="0" gesture="media" allowfullscreen></iframe>
+
+##### b) Cara Menyisipkan Google Form Pada Website
 
   * Isi file index.html:
 
   ```html
 
-	<input type="button" value="Cancle">
-	<input type="submit" value="Submit">
-	<input type="reset" value="Reset">
+  <html>
+    <head>
+      <title>
+        Form
+      </title>
+      <link rel="stylesheet" type="text/css" href="css/style.css">
+    </head>
+    <body>
+      <div id="form">
+          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd5hZ35Efqu0PIKCgaTQXWz5CNG6-DqjORZPAoVsw1n7GQoBg/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+      </div>
+    </body>
+  </html>
+
 
   ```
 
@@ -175,30 +206,64 @@ yang saya ganti dengan Nama itu adalah form pertama yang disediakan.
 
   ```css
 
+  #form{
+    width: 550px;
+    height: 1250px;
+    overflow: hidden;
+  }
+
+  #form iframe{
+    margin-top: -200px;
+    margin-left: -100px;
+    height: 1500px;
+    width: 150%;
+  }
+  
 
   ```  
 
-#### 3. Embed Video
+#### 3. Embed Video From Youtube
 
   * Isi file index.html:
 
   ```html
 
-	<input type="button" value="Cancle">
-	<input type="submit" value="Submit">
-	<input type="reset" value="Reset">
+  <html>
+    <head>
+      <title>
+        Embed Video From Youtube
+      </title>
+    </head>
+    <body>
+      <iframe width="854" height="480" src="https://www.youtube.com/embed/IjN-WsRh0tI" frameborder="0" gesture="media" allowfullscreen></iframe>
+    </body>
+  </html>
+
 
   ```
-
-  * Isi file style.css:
-
-  ```css
-
-
-  ```  
 
 ---
+#### 3. Embed Video From Local Video
 
+  * Isi file index.html:
+
+  ```html
+
+  <html>
+    <head>
+      <title>
+        Form
+      </title>
+    </head>
+    <body>
+
+    </body>
+  </html>
+
+
+  ```
+
+---
 ### Instruction
 1. Buka sublime dan mulai menulis script.
 2. Peserta diajarkan untuk mengerti cara membuat internal dan eksternal link.
