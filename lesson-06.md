@@ -19,12 +19,12 @@
 <img src="https://www.w3schools.com/html/img_sem_elements.gif">
 
 #### Keterangan:
-* `<header>` - Defines a header for a document or a section
-* `<nav>` - Defines a container for navigation links
-* `<section>` - Defines a section in a document
-* `<article>` - Defines an independent self-contained article
-* `<aside>` - Defines content aside from the content (like a sidebar)
-* `<footer>` - Defines a footer for a document or a section
+* `<header>` - Mendefinisikan header sebuah website
+* `<nav>` - Mendefinisikan menu
+* `<section>` - Mendefinisikan bagian-bagian dari sebuah website
+* `<article>` - Mendefinisikan bahwa bagian tersebut berisi artikel pada sebuah website
+* `<aside>` - Mendefinisikan sidebar dari sebuah website
+* `<footer>` - Mendefinisikan footer sebuah website
 
 * Isi file `index.html`:
 
@@ -104,6 +104,11 @@
   }
 
   ```
+
+---
+
+### Example Code
+* Untuk contoh penulisan code pada kurikulum ini bisa di download pada [LINK INI](https://github.com/kollaeducation/coding-teen-example-code/archive/master.zip).
 
 ---
 
