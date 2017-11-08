@@ -175,9 +175,7 @@ yang saya ganti dengan Nama itu adalah form pertama yang disediakan.
 
 11. Copy tulisan yang ada pada text field Embed HTML.
 
-* Video tutorial membuat Google Form
-
-<iframe width="854" height="480" src="https://www.youtube.com/embed/FvZPNIPFCs8" frameborder="0" gesture="media" allowfullscreen></iframe>
+* [Video tutorial membuat Google Form] (https://www.youtube.com/embed/FvZPNIPFCs8)
 
 ##### b) Cara Menyisipkan Google Form Pada Website
 
