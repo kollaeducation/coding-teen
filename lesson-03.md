@@ -19,6 +19,15 @@
 ### Material
 #### 1. Lists
 
+  * Struktur Folder
+
+  ```text
+
+    +-- nama-folder
+      |-- index.html
+
+  ```
+
 ##### a) Ordered List
 
   * Isi file index.html:
@@ -137,6 +146,16 @@
 
 #### 2. Inline Elements For Text Formating
 
+
+  * Struktur Folder
+
+  ```text
+
+    +-- nama-folder
+      |-- index.html
+
+  ```
+
 ##### a) &lt;em&gt;
 
   * Isi file index.html:
@@ -181,6 +200,15 @@
 
 #### 3. Fonts
 
+  * Struktur Folder
+
+  ```text
+
+    +-- nama-folder
+      |-- index.html
+
+  ```
+  
 ##### a) Font Family
 
   * Isi file index.html:
@@ -215,6 +243,17 @@
   ``` 
 
 #### 4. CSS Text
+
+  * Struktur Folder
+
+  ```text
+
+    +-- nama-folder
+      |-- index.html
+      +-- css
+        |-- style.css
+
+  ```
 
 ##### a) Text Color
 
@@ -292,6 +331,17 @@
   ``` 
 
 #### 5. CSS Fonts
+
+  * Struktur Folder
+
+  ```text
+
+    +-- nama-folder
+      |-- index.html
+      +-- css
+        |-- style.css
+
+  ```
 
 ##### a) Font Style
 
@@ -457,6 +507,17 @@
   ``` 
 
 #### 6. CSS Lists
+
+  * Struktur Folder
+
+  ```text
+
+    +-- nama-folder
+      |-- index.html
+      +-- css
+        |-- style.css
+
+  ```
 
 ##### a) List Style Type
 
