@@ -697,6 +697,11 @@
 
 ---
 
+### Example Code
+* Untuk contoh penulisan code pada kurikulum ini bisa di download pada <a href="https://github.com/gitacitrap/coding-teen-example-code">LINK INI</a>.
+
+---
+
 ### Instruction
 1. Buka sublime dan mulai menulis script.
 2. Peserta diajarkan untuk mengerti cara membuat internal dan eksternal link.
