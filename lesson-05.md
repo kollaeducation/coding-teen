@@ -18,94 +18,134 @@
 
 ### Material
 #### 1. Blocks
+
 ##### a) HTML dan CSS 1 Kolom
-* HTML `index.html`
+
+* Isi file `index.html`
+
   ```html
+
   <div class="parent">
     Ini div 1 kolom
   </div>
+
   ```
-* CSS `style.css`
+
+* Isi file `style.css`
+
   ```css
+
   .parent {
     background-color: #ff0000;
     height: 200px;
     width: 100%;
   }
+
   ```
 
 ##### b) HTML dan CSS 2 Kolom
-* HTML `index.html`
+
+* Isi file `index.html`
+
   ```html
+
   <div class="parent">
       <div class="child1">Ini section 1</div>
       <div class="child2">Ini section 2</div>
   </div>
+
   ```
-* CSS `style.css`
+
+* Isi file `style.css`
+
   ```css
+
   .parent {
       background-color: aqua;
   }
+
   .child1 {
       background-color: brown;
       float: left;
       width: 20%;
   }
+
   .child2 {
       background-color: cornflowerblue;
       float: right;
       width: 80%;
   }
+
   ```
 
 ##### c) HTML dan CSS 3 Kolom
-* HTML `index.html`
+
+* Isi file `index.html`
+
   ```html
+
   <div class="parent2">
       <div class="childa">Ini section 1</div>
       <div class="childb">Ini section 2</div>
       <div class="childc">Ini section 3</div>
   </div>
+
   ```
-* CSS `style.css`
+
+* Isi file `style.css`
+
   ```css
+
   .parent2 {
       background-color: blueviolet;
       margin-top: 50px;
   }
+
   .childa {
       background-color: bisque;
       float: left;
       width: 33%;
   }
+
   .childb {
       background-color: chocolate;
       float: left;
       width: 34%;
   }
+
   .childc {
       background-color: cadetblue;
       float: left;
       width: 33%;
   }
+
   ```
+
 #### 2. Box Model
 
-* HTML `index.html`
+<img src="https://stuyhsdesign.files.wordpress.com/2015/10/box-model.png">
+
+* Isi file `index.html`
+
   ```html
+
   <div class="parent2">
       <div class="childa">Ini section 1</div>
       <div class="childb">Ini section 2</div>
       <div class="childc">Ini section 3</div>
   </div>
+
   ```
-* CSS `style.css`
+
+* Isi file `style.css`
+
   ```css
+
   .parent2 {
       background-color: blueviolet;
       margin: 50px;
   }
+
   .childa {
       background-color: bisque;
       float: left;
@@ -113,6 +153,7 @@
       padding: 30px;
       bolder: dotted 2px blue;
   }
+
   .childb {
       background-color: chocolate;
       float: left;
@@ -120,6 +161,7 @@
       padding: 100px;
       bolder: dashed 2px green;
   }
+
   .childc {
       background-color: cadetblue;
       float: left;
@@ -127,6 +169,7 @@
       padding: 50px;
       bolder: solid 2px red;
   }
+
   ```
 
 ---
