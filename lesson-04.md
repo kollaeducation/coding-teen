@@ -10,11 +10,11 @@
 ---
 
 ### Objectives
-2. Peserta mengetahui cara membuat form pada HTML.
+1. Peserta mengetahui cara membuat form pada HTML.
 2. Peserta mengetahui cara membuat google form.
-2. Peserta mengetahui cara menyisipkan google form pada halaman website.
-2. Peserta mengetahui cara menyisipkan video youtube pada halaman website.
-2. Peserta mengetahui cara menyisipkan video yang ada pada laptop pada halaman website.
+3. Peserta mengetahui cara menyisipkan google form pada halaman website.
+4. Peserta mengetahui cara menyisipkan video youtube pada halaman website.
+5. Peserta mengetahui cara menyisipkan video yang ada pada laptop pada halaman website.
 
 ---
 
@@ -280,10 +280,10 @@ yang saya ganti dengan Nama itu adalah form pertama yang disediakan.
 ### Instruction
 1. Buka sublime dan mulai menulis script.
 2. Peserta diajarkan untuk membuat form pada HTML.
-2. Peserta diajarkan untuk membuat google form.
-2. Peserta diajarkan untuk menyisipkan google form pada halaman website.
-2. Peserta diajarkan untuk menyisipkan video youtube pada halaman website.
-2. Peserta diajarkan untuk menyisipkan video yang ada pada laptop pada halaman website.
+3. Peserta diajarkan untuk membuat google form.
+4. Peserta diajarkan untuk menyisipkan google form pada halaman website.
+5. Peserta diajarkan untuk menyisipkan video youtube pada halaman website.
+6. Peserta diajarkan untuk menyisipkan video yang ada pada laptop pada halaman website.
 
 ---
 
