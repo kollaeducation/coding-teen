@@ -174,6 +174,11 @@
 
 ---
 
+### Example Code
+* Untuk contoh penulisan code pada kurikulum ini bisa di download pada [LINK INI](https://github.com/kollaeducation/coding-teen-example-code/archive/master.zip).
+
+---
+
 ### Instruction
 1. Buka sublime dan mulai menulis script.
 1. Peserta diajarkan struktur website dibentuk dari **HTML** `div`, dibantu **CSS** `float`.
