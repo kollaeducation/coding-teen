@@ -331,7 +331,7 @@
 
   ```
 
-  * Isi file index.html
+  * Isi file `index.html`:
 
   ```html
 
@@ -364,7 +364,7 @@
 
   ```
 
-  * Isi file about-us.html
+  * Isi file `about-us.html`:
 
   ```html
 
@@ -397,7 +397,7 @@
 
   ```  
 
-  * Isi file contact.html
+  * Isi file `contact.html`:
 
   ```html
 
@@ -429,7 +429,7 @@
     </html>
 
   ```
-  * Isi file style.css
+  * Isi file `style.css`:
 
   ```css
 
@@ -474,7 +474,7 @@
 
   ```
 
-  * Isi file index.html
+  * Isi file `index.html`:
 
   ```html
 
@@ -517,7 +517,7 @@
 
   ```
 
-  * Isi file about-us.html
+  * Isi file `about-us.html`:
 
   ```html
 
@@ -560,7 +560,7 @@
 
   ```  
 
-  * Isi file contact.html
+  * Isi file `contact.html`:
 
   ```html
 
@@ -602,7 +602,7 @@
 
   ```
 
-  * Isi file style.css
+  * Isi file `style.css`:
 
   ```css
   

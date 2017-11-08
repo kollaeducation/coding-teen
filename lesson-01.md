@@ -251,7 +251,7 @@
 
   ```
 
-  * Isi file about-us.html:
+  * Isi file `about-us.html`:
 
   ```html
 

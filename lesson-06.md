@@ -10,29 +10,55 @@
 ---
 
 ### Objectives
-1. Peserta mulai mengerjakan **Personal Project**.
+1. Peserta dikenalkan tentang Web Structure.
 
 ---
 
 ### Material
-#### 1. Header
-#### 2. Logo
-#### 3. Navigation
-#### 4. Section
-#### 5. Footer
+
+* HTML `index.html`
+  ```html
+  <div class="parent2">
+      <div class="childa">Ini section 1</div>
+      <div class="childb">Ini section 2</div>
+      <div class="childc">Ini section 3</div>
+  </div>
+  ```
+  
+* CSS `style.css`
+  ```css
+  .parent2 {
+      background-color: blueviolet;
+      margin-top: 50px;
+  }
+  .childa {
+      background-color: bisque;
+      float: left;
+      width: 33%;
+  }
+  .childb {
+      background-color: chocolate;
+      float: left;
+      width: 34%;
+  }
+  .childc {
+      background-color: cadetblue;
+      float: left;
+      width: 33%;
+  }
+  ```
 
 ---
 
 ### Instruction
 1. Buka sublime dan mulai menulis script.
-2. Peserta diajarkan untuk mengerti cara membuat internal dan eksternal link.
-2. Peserta diajarkan untuk membuat navigasi menu.
+2. Peserta diajarkan untuk mengerti stuktur dari sebuah website.
 
 ---
 
 ### Feedback
-1. Apa yang menjadi bottleneck dari **lesson 02** ini?
-2. Apa yang sebaiknya ditambah dan ditiadakan dari materi **lesson 02** ini?
+1. Apa yang menjadi bottleneck dari **lesson 06** ini?
+2. Apa yang sebaiknya ditambah dan ditiadakan dari materi **lesson 06** ini?
 
 ---
 
