@@ -294,8 +294,6 @@ yang saya ganti dengan Nama itu adalah form pertama yang disediakan.
 ---
 
 ### References
-* <a href="https://bukugue.com/cara-membuat-email-gmail/">Cara membuat akun google</a>
-* <a href="https://www.maxmanroe.com/cara-membuat-formulir-online-menggunakan-google-form.html"> Cara membuat google form </a>
 
 ---
 
