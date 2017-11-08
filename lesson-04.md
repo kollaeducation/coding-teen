@@ -138,6 +138,96 @@
 
   ```
 
+##### k) Form
+
+  * Isi file index.html:
+
+  ```html
+
+  <html>
+    <head>
+      <title>
+        Form
+      </title>
+      <link rel="stylesheet" type="text/css" href="css/style.css">
+    </head>
+    <body>
+      <h4>Form Pendaftaran Siswa</h4>
+      <form method="GET" action="">
+        <div class="from-group">
+            <label>Nama Lengkap</label>
+            <input class="form-control" type="text" name="nama_lengkap" placeholder="Nama Lengkap">
+        </div>
+        <div class="from-group">
+            <label>Password</label>
+            <input class="form-control" type="password" name="password" placeholder="Password">
+        </div>
+        <div class="from-group">
+            <label>Jenis Kelamin</label>
+            <input class="form-control" type="email" name="email" placeholder="Email">
+        </div>
+        <div class="from-group">
+            <label>Tanggal Lahir</label>
+            <input class="form-control" type="date" name="tanggal_lahir" placeholder="Tanggal Lahir">
+        </div>
+        <div class="from-group">
+            <label>Hobi</label>
+            <div class="form-control" >
+          <input type="checkbox" name="hobi[]" value="Sepak Bola"> Sepak Bola
+          <input type="checkbox" name="hobi[]" value="Berenang"> Berenang 
+          <input type="checkbox" name="hobi[]" value="Masak"> Masak 
+          <input type="checkbox" name="hobi[]" value="Menggambar"> Menggambar 
+        </div>
+        </div>
+        <div class="from-group">
+            <label>Jenis Kelamin</label>
+            <div class="form-control" >
+              <input type="radio" name="jenis_kelamin" value="laki-laki" checked> Laki-laki
+          <input type="radio" name="jenis_kelamin" value="perempuan"> Perempuan
+        </div>
+        </div>
+        <div class="from-group">
+            <label>Kelas</label>
+        <select class="form-control" name="kelas">
+          <option value="9">IX</option>
+          <option value="10">X</option>
+          <option value="11">XI</option>
+        </select>
+        </div>
+        <div class="from-group">
+            <label>Alamat</label>
+        <textarea name="alamat" class="form-control" >
+        </textarea>
+        </div>
+        <div class="from-group">
+        <input type="submit" value="Submit">
+        <input type="reset" value="Reset">
+        </div>
+      </form>
+    </body>
+  </html>
+
+  ```
+
+  * Isi file style.css:
+
+  ```css
+
+  .from-group{
+    width: 500px;
+  }
+
+  label{
+    padding: 20px 0px;
+  }
+
+  .form-control{
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0px;
+  }
+
+  ```  
 
 #### 2. Embed Google Form
 
