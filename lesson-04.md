@@ -146,9 +146,18 @@ yang saya ganti dengan Nama itu adalah form pertama yang disediakan.
 
 <img src="https://www.maxmanroe.com/wp-content/uploads/2015/05/gform_4.jpg">
 
-7. Sebagai contoh saya akan membuat Jenis Kelamin dengan bentuk data multiple choice atau pilihan ganda, jadi input data hanya dilakukkan dengan memilih salah satu pilihan yang tersedia.
+7. Buat Input untuk Jenis Kelamin dengan bentuk data multiple choice atau pilihan ganda.
 
 <img src="https://www.maxmanroe.com/wp-content/uploads/2015/05/gform_5.jpg">
+
+8. Setelah selesai membuat form pendaftaran, klik tombol <b>"SEND"</b>.
+
+9. Kemudian pada Send Form Klik tab Embed seperti pada gambar di bawah ini.
+
+<img src="https://scontent-sin6-2.xx.fbcdn.net/v/t1.0-9/23244584_10211190429664639_9222370049142844422_n.jpg?oh=481cc22fba12aeda334cd130190aef22&oe=5A9DD9C5">
+
+10. Copy tulisan yang ada pada text field Embed HTML.
+
 
 ##### c) Cara Menyisipkan Google Form Pada Website
 
