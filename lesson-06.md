@@ -19,12 +19,12 @@
 <img src="https://www.w3schools.com/html/img_sem_elements.gif">
 
 #### Keterangan:
-###### `<header>` - Mendefinisikan header sebuah website
-###### `<nav>` - Mendefinisikan menu
-###### `<section>` - Mendefinisikan bagian-bagian dari sebuah website
-###### `<article>` - Mendefinisikan bahwa bagian tersebut berisi artikel pada sebuah website
-###### `<aside>` - Mendefinisikan sidebar dari sebuah website
-###### `<footer>` - Mendefinisikan footer sebuah website
+a) `<header>` - Mendefinisikan header sebuah website
+b) `<nav>` - Mendefinisikan menu
+c) `<section>` - Mendefinisikan bagian-bagian dari sebuah website
+d) `<article>` - Mendefinisikan bahwa bagian tersebut berisi artikel pada sebuah website
+e) `<aside>` - Mendefinisikan sidebar dari sebuah website
+f) `<footer>` - Mendefinisikan footer sebuah website
 
 * Isi file `index.html`:
 
