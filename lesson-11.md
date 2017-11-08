@@ -29,6 +29,9 @@
 * Membuat akun GitHub
 * Membuat GitHub Pages
 
+#### 4. Tutorial
+* [Cara membuat akun dan domain serta hosting di idhostinger](https://www.youtube.com/embed/3ML3A43uum4)
+* [Cara membuat akun dan domain serta hosting di idhostinger](https://www.youtube.com/embed/3ML3A43uum4)
 ---
 
 ### Exercises

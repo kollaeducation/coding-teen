@@ -22,6 +22,7 @@
 * Find and copy file `bootstrap.css` into your project's folder.
 
 #### 2. Container and Row sebagai parent dari kolom-kolom.
+
 * Bootstrap 1 Kolom
   ```html
   <div class="container">
@@ -32,6 +33,7 @@
     </div>
   </div>
   ```
+
 * Bootstrap 2 Kolom
   ```html
   <div class="container">
@@ -45,6 +47,7 @@
     </div>
   </div>
   ```
+
 * Bootstrap 3 Kolom
   ```html
   <div class="container">
@@ -61,6 +64,7 @@
     </div>
   </div>
   ```
+  
 * Bootstrap 3 Kolom Kompleks
   ```html
   <div class="container">
@@ -127,8 +131,8 @@
 ---
 
 ### Feedback
-1. Apa yang menjadi bottleneck dari **lesson 04** ini?
-2. Apa yang sebaiknya ditambah dan ditiadakan dari materi **lesson 04** ini?
+1. Apa yang menjadi bottleneck dari **lesson 07** ini?
+2. Apa yang sebaiknya ditambah dan ditiadakan dari materi **lesson 07** ini?
 
 ---
 

@@ -57,8 +57,8 @@
 ---
 
 ### Feedback
-1. Apa yang menjadi bottleneck dari **lesson 05** ini?
-2. Apa yang sebaiknya ditambah dan ditiadakan dari materi **lesson 05** ini?
+1. Apa yang menjadi bottleneck dari **lesson 08** ini?
+2. Apa yang sebaiknya ditambah dan ditiadakan dari materi **lesson 08** ini?
 
 ---
 
