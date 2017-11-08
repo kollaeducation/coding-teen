@@ -33,26 +33,15 @@
       </head>
       <body>
         <ol>
-          <li>
-            Coffee
+          <li>Coffee
             <ol>
-              <li>
-                Coffee 1
-              </li>
-              <li>
-                Coffee 2
-              </li>
-              <li>
-                Coffee 3
-              </li>
+              <li>Coffee 1</li>
+              <li>Coffee 2</li>
+              <li>Coffee 3</li>
             </ol>
           </li>
-          <li>
-            Tea
-          </li>
-          <li>
-            Milk
-          </li>
+          <li>Tea</li>
+          <li>Milk</li>
         </ol>
       </body>
     </html>
@@ -73,26 +62,15 @@
       </head>
       <body>
         <ol type="a">
-          <li>
-          Coffee
+          <li>Coffee
             <ol type="i">
-              <li>
-                Coffee 1
-              </li>
-              <li>
-                Coffee 2
-              </li>
-              <li>
-                Coffee 3
-              </li>
+              <li>Coffee 1</li>
+              <li>Coffee 2</li>
+              <li>Coffee 3</li>
             </ol>
           </li>
-          <li>
-            Tea
-          </li>
-          <li>
-            Milk
-          </li>
+          <li>Tea</li>
+          <li>Milk</li>
         </ol>
       </body>
     </html>
@@ -113,26 +91,15 @@
       </head>
       <body>
         <ul>
-          <li>
-            Coffee
+          <li>Coffee
             <ul>
-              <li>
-                Coffee 1
-              </li>
-              <li>
-                Coffee 2
-              </li>
-              <li>
-                Coffee 3
-              </li>
+              <li>Coffee 1</li>
+              <li>Coffee 2</li>
+              <li>Coffee 3</li>
             </ul>
           </li>
-          <li>
-            Tea
-          </li>
-          <li>
-            Milk
-          </li>
+          <li>Tea</li>
+          <li>Milk</li>
         </ul>
       </body>
     </html>
@@ -153,26 +120,15 @@
       </head>
       <body>
         <ul type="square">
-          <li>
-            Coffee
+          <li>Coffee
             <ul type="circle">
-              <li>
-                Coffee 1
-              </li>
-              <li>
-                Coffee 2
-              </li>
-              <li>
-                Coffee 3
-              </li>
+              <li>Coffee 1</li>
+              <li>Coffee 2</li>
+              <li>Coffee 3</li>
             </ul>
           </li>
-          <li>
-            Tea
-          </li>
-          <li>
-            Milk
-          </li>
+          <li>Tea</li>
+          <li>Milk</li>
         </ul>
       </body>
     </html>
