@@ -124,27 +124,28 @@
 #### 2. Embed Google Form
 
 ##### a) Cara Membuat Akun Google
-	1. Kunjungi laman pembuatan akun Gmail dengan cara klik <a href="https://accounts.google.com/signup?hl=in">DISINI</a>.
-	2. Selanjutnya akan tampil halaman pendaftaran. Isi form pendaftaran seperti pada gambar di bawah ini.
-	<img src="https://i2.wp.com/bukugue.com/wp-content/uploads/2017/02/cara-buat-email-baru-google-gmail-1.jpg?resize=800%2C653&ssl=1">
-	3. Setelah selesai isi biodata, selanjutnya klik tombol <b>"Langkah berikutnya"</b>
-	4. Kemudian akan tampil ketentuan Privasi dan Persyaratan. Klik tombol <b>"SAYA SETUJU"</b>.
-	<img src="https://i1.wp.com/bukugue.com/wp-content/uploads/2017/02/cara-buat-email-baru-google-gmail-4.jpg?resize=800%2C504&ssl=1">
-	5. Selesai.
+
+1. Kunjungi laman pembuatan akun Gmail dengan cara klik <a href="https://accounts.google.com/signup?hl=in">DISINI</a>.
+2. Selanjutnya akan tampil halaman pendaftaran. Isi form pendaftaran seperti pada gambar di bawah ini.
+<img src="https://i2.wp.com/bukugue.com/wp-content/uploads/2017/02/cara-buat-email-baru-google-gmail-1.jpg?resize=800%2C653&ssl=1">
+3. Setelah selesai isi biodata, selanjutnya klik tombol <b>"Langkah berikutnya"</b>
+4. Kemudian akan tampil ketentuan Privasi dan Persyaratan. Klik tombol <b>"SAYA SETUJU"</b>.
+<img src="https://i1.wp.com/bukugue.com/wp-content/uploads/2017/02/cara-buat-email-baru-google-gmail-4.jpg?resize=800%2C504&ssl=1">
+5. Selesai.
 
 ##### b) Cara Membuat Google Form
-	1. Login dalam akun google Anda.
-	2. Masuk ke dalam google drive dengan klik <a href="https://drive.google.com">LINK INI</a>
-	3. Setelah masuk Google Drive, silahkan fokus pada pojok kanan atas tempat baris menu berada kemudian klik pada tombol New > More > Google Forms.
-	<img src="https://www.maxmanroe.com/wp-content/uploads/2015/05/gform_1.jpg">
-	4. Anda akan dihadapkan pada tampilan default Google Form yang form maupun judulnya masih serba untitled, seperti pada gambar dibawah ini:
-	<img src="https://www.maxmanroe.com/wp-content/uploads/2015/05/gform_2.jpg">
-	5. Anda bisa mengganti judul form yang masih Untitled menggunakan judul anda sendiri. Sebagai contoh saya menggantinya menjadi Contoh Form Pendaftaran Olimpiade. Untuk bagian yang saya ganti dengan Nama itu adalah form pertama yang disediakan.
-	<img src="https://www.maxmanroe.com/wp-content/uploads/2015/05/gform_3.jpg">
-	6. Klik pada Add Item yang berada di bagian bawah untuk menambah form baru, Anda bisa memilih jenis form seperti apa yang ingin anda tambah. Anda bisa menambah form dalam bentuk teks seperti form Nama diatas atau dengan bentuk yang lain.
-	<img src="https://www.maxmanroe.com/wp-content/uploads/2015/05/gform_4.jpg">
-	7. Sebagai contoh saya akan membuat Jenis Kelamin dengan bentuk data multiple choice atau pilihan ganda, jadi input data hanya dilakukkan dengan memilih salah satu pilihan yang tersedia.
-	<img src="https://www.maxmanroe.com/wp-content/uploads/2015/05/gform_5.jpg">
+1. Login dalam akun google Anda.
+2. Masuk ke dalam google drive dengan klik <a href="https://drive.google.com">LINK INI</a>
+3. Setelah masuk Google Drive, silahkan fokus pada pojok kanan atas tempat baris menu berada kemudian klik pada tombol New > More > Google Forms.
+<img src="https://www.maxmanroe.com/wp-content/uploads/2015/05/gform_1.jpg">
+4. Anda akan dihadapkan pada tampilan default Google Form yang form maupun judulnya masih serba untitled, seperti pada gambar dibawah ini:
+<img src="https://www.maxmanroe.com/wp-content/uploads/2015/05/gform_2.jpg">
+5. Anda bisa mengganti judul form yang masih Untitled menggunakan judul anda sendiri. Sebagai contoh saya menggantinya menjadi Contoh Form Pendaftaran Olimpiade. Untuk bagian yang saya ganti dengan Nama itu adalah form pertama yang disediakan.
+<img src="https://www.maxmanroe.com/wp-content/uploads/2015/05/gform_3.jpg">
+6. Klik pada Add Item yang berada di bagian bawah untuk menambah form baru, Anda bisa memilih jenis form seperti apa yang ingin anda tambah. Anda bisa menambah form dalam bentuk teks seperti form Nama diatas atau dengan bentuk yang lain.
+<img src="https://www.maxmanroe.com/wp-content/uploads/2015/05/gform_4.jpg">
+7. Sebagai contoh saya akan membuat Jenis Kelamin dengan bentuk data multiple choice atau pilihan ganda, jadi input data hanya dilakukkan dengan memilih salah satu pilihan yang tersedia.
+<img src="https://www.maxmanroe.com/wp-content/uploads/2015/05/gform_5.jpg">
 
 ##### c) Cara Menyisipkan Google Form Pada Website
 
