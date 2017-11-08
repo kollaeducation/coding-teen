@@ -16,36 +16,93 @@
 
 ### Material
 
-* HTML `index.html`
+<img src="https://www.w3schools.com/html/img_sem_elements.gif">
+
+#### Keterangan:
+* `<header>` - Defines a header for a document or a section
+* `<nav>` - Defines a container for navigation links
+* `<section>` - Defines a section in a document
+* `<article>` - Defines an independent self-contained article
+* `<aside>` - Defines content aside from the content (like a sidebar)
+* `<footer>` - Defines a footer for a document or a section
+
+* Isi file `index.html`:
+
   ```html
-  <div class="parent2">
-      <div class="childa">Ini section 1</div>
-      <div class="childb">Ini section 2</div>
-      <div class="childc">Ini section 3</div>
-  </div>
+
+  <html>
+    <head>
+        <title>
+          Web Structure
+        </title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+    </head>
+    <body>
+      <div class="container">
+        <header>
+           <h1>City Gallery</h1>
+        </header>
+        <nav>
+          <ul>
+            <li><a href="#">London</a></li>
+            <li><a href="#">Paris</a></li>
+            <li><a href="#">Tokyo</a></li>
+          </ul>
+        </nav>
+        <article>
+          <h1>London</h1>
+          <p>London is the capital city of England. It is the most populous city in the  United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
+          <p>Standing on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium.</p>
+        </article>
+        <footer>Copyright &copy; W3Schools.com</footer>
+      </div>
+    </body>
+  </html>
+
+
   ```
   
-* CSS `style.css`
+* Isi file `style.css`:
+
   ```css
-  .parent2 {
-      background-color: blueviolet;
-      margin-top: 50px;
+
+
+  div.container {
+      width: 100%;
+      border: 1px solid gray;
   }
-  .childa {
-      background-color: bisque;
+
+  header, footer {
+      padding: 1em;
+      color: white;
+      background-color: black;
+      clear: left;
+      text-align: center;
+  }
+
+  nav {
       float: left;
-      width: 33%;
+      max-width: 160px;
+      margin: 0;
+      padding: 1em;
   }
-  .childb {
-      background-color: chocolate;
-      float: left;
-      width: 34%;
+
+  nav ul {
+      list-style-type: none;
+      padding: 0;
   }
-  .childc {
-      background-color: cadetblue;
-      float: left;
-      width: 33%;
+     
+  nav ul a {
+      text-decoration: none;
   }
+
+  article {
+      margin-left: 170px;
+      border-left: 1px solid gray;
+      padding: 1em;
+      overflow: hidden;
+  }
+
   ```
 
 ---
