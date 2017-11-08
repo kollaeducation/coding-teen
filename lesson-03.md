@@ -30,7 +30,7 @@
 
 ##### a) Ordered List
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -59,7 +59,7 @@
 
 ##### b) Ordered List Bullet Type
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -88,7 +88,7 @@
 
 ##### c) Unordered List
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -117,7 +117,7 @@
 
 ##### d) Unordered List Bullet Type
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -158,7 +158,7 @@
 
 ##### a) &lt;em&gt;
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -179,7 +179,7 @@
 
 ##### b) &lt;strong&gt;
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -211,7 +211,7 @@
 
 ##### a) Font Family
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -232,7 +232,7 @@
 
   ```
 
-  * Isi file style.css:
+  * Isi file `style.css`:
 
   ```css
 
@@ -257,7 +257,7 @@
 
 ##### a) Text Color
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -278,7 +278,7 @@
 
   ```
 
-  * Isi file style.css:
+  * Isi file `style.css`:
 
   ```css
   h2{
@@ -293,7 +293,7 @@
 
 ##### b) Text Alignment
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -314,7 +314,7 @@
 
   ```
 
-  * Isi file style.css:
+  * Isi file `style.css`:
 
   ```css
 
@@ -345,7 +345,7 @@
 
 ##### a) Font Style
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -367,7 +367,7 @@
 
   ```
 
-  * Isi file style.css:
+  * Isi file `style.css`:
 
   ```css
 
@@ -379,7 +379,7 @@
 
 ##### b) Font Size
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -401,7 +401,7 @@
 
   ```
 
-  * Isi file style.css:
+  * Isi file `style.css`:
 
   ```css
 
@@ -417,7 +417,7 @@
 
 ##### c) Font Weight
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -439,7 +439,7 @@
 
   ```
 
-  * Isi file style.css:
+  * Isi file `style.css`:
 
   ```css
 
@@ -461,7 +461,7 @@
 
 ##### d) Font Variant
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -484,7 +484,7 @@
 
   ```
 
-  * Isi file style.css:
+  * Isi file `style.css`:
 
   ```css
 
@@ -521,7 +521,7 @@
 
 ##### a) List Style Type
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -551,7 +551,7 @@
 
   ```
 
-  * Isi file style.css:
+  * Isi file `style.css`:
 
   ```css
 
@@ -567,7 +567,7 @@
 
 ##### b) List Style Position
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -603,7 +603,7 @@
 
   ```
 
-  * Isi file style.css:
+  * Isi file `style.css`:
 
   ```css
 
@@ -642,7 +642,7 @@
 ---
 
 ### References
-1. <a href="https://fonts.google.com/">Link Google Font</a>
+1. [Link Google Font](https://fonts.google.com/)
 
 ---
 | [Home][0] | [01][1] | [02][2] | [03][3] | [04][4] | [05][5] | [06][6] | [07][7] | [08][8] | [09][9] | [10][10] | [11][11] | [Presentation][12] |

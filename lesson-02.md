@@ -45,7 +45,7 @@
 
 ##### b) Insert CSS on HTML Page
   
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -63,7 +63,7 @@
 
   ```
 
-  * Isi file style.css:
+  * Isi file `style.css`:
 
   ```css
 
@@ -76,7 +76,7 @@
 
 ##### c) Styling Heading
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -98,7 +98,7 @@
 
   ```
 
-  * Isi file style.css:
+  * Isi file `style.css`:
 
   ```css
 
@@ -122,7 +122,7 @@
 ##### d) Styling Pragraph
 
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -148,7 +148,7 @@
 
   ```
 
-  * Isi file style.css:
+  * Isi file `style.css`:
 
   ```css
 
@@ -165,7 +165,7 @@
 ##### e) Styling Anchor
 
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -191,7 +191,7 @@
 
   ```
 
-  * Isi file style.css:
+  * Isi file `style.css`:
 
   ```css
 
@@ -236,7 +236,7 @@
 
   ```
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -272,7 +272,7 @@
 
   ```
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -298,7 +298,7 @@
 
   ```
 
-  * Isi file style.css:
+  * Isi file `style.css`:
 
   ```css
 
@@ -651,7 +651,7 @@
 
   ```
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -677,7 +677,7 @@
 
   ```
 
-  * Isi file style.css:
+  * Isi file `style.css`:
 
   ```css
 

@@ -23,7 +23,7 @@
 
 ##### a) Text
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -33,7 +33,7 @@
 
 ##### b) Password
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -44,7 +44,7 @@
 
 ##### c) Email
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -54,7 +54,7 @@
 
 ##### d) Date
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -64,7 +64,7 @@
 
 ##### e) Checkbox
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -77,7 +77,7 @@
 
 ##### f) Radio
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -88,7 +88,7 @@
 
 ##### g) Select
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -102,7 +102,7 @@
 
   ##### h) Multiple Select
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -116,7 +116,7 @@
 
 ##### i) Text Area
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -128,7 +128,7 @@
 
 ##### j) Button
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -140,7 +140,7 @@
 
 ##### k) Form
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -256,7 +256,7 @@ yang saya ganti dengan Nama itu adalah form pertama yang disediakan.
 
 ##### b) Cara Menyisipkan Google Form Pada Website
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -277,7 +277,7 @@ yang saya ganti dengan Nama itu adalah form pertama yang disediakan.
 
   ```
 
-  * Isi file style.css:
+  * Isi file `style.css`:
 
   ```css
 
@@ -299,7 +299,7 @@ yang saya ganti dengan Nama itu adalah form pertama yang disediakan.
 
 #### 3. Embed Video From Youtube
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -320,7 +320,7 @@ yang saya ganti dengan Nama itu adalah form pertama yang disediakan.
 ---
 #### 3. Embed Video From Local Video
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 

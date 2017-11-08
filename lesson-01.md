@@ -96,7 +96,7 @@
 
 ##### b) Basic Web Structure
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -113,7 +113,7 @@
 
 ##### c) Title
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -132,7 +132,7 @@
 
 ##### d) Meta Description
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -152,7 +152,7 @@
 
 ##### e) Komentar Pada HTML
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -172,7 +172,7 @@
 
 ##### f) Heading
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -227,7 +227,7 @@
 
   ```
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
@@ -290,7 +290,7 @@
 
   ```
 
-  * Isi file index.html:
+  * Isi file `index.html`:
 
   ```html
 
