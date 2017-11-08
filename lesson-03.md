@@ -208,7 +208,7 @@
       |-- index.html
 
   ```
-  
+
 ##### a) Font Family
 
   * Isi file index.html:
@@ -580,6 +580,9 @@
       </head>
       <body>
         <h2>Menu Minuman</h2>
+        <p>
+        Kami memiliki beberapa menu minuman yang dapat memberikan kesegaran kepada Anda.
+        </p>
         <ul class="minuman">
           <li>Ice Blend Coffee</li>
           <li>Ice Blend Strawberry Javachip</li>
@@ -587,6 +590,9 @@
         </ul>
 
         <h2>Menu Makanan</h2>
+        <p>
+        Kami memiliki beberapa menu makanan yang dapat memanjakan lidah Anda.
+        </p>
         <ul class="makanan">
           <li>Coffee Cake</li>
           <li>Strawberry Cake</li>
