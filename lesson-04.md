@@ -10,8 +10,11 @@
 ---
 
 ### Objectives
-1. Peserta mengetahui framework sebagai alat bantu pemercepat pembuatan website.
-2. Peserta mampu membangun website menggunakan framework Bootstrap.
+2. Peserta mengetahui cara membuat form pada HTML.
+2. Peserta mengetahui cara membuat google form.
+2. Peserta mengetahui cara menyisipkan google form pada halaman website.
+2. Peserta mengetahui cara menyisipkan video youtube pada halaman website.
+2. Peserta mengetahui cara menyisipkan video yang ada pada laptop pada halaman website.
 
 ---
 
@@ -176,7 +179,7 @@ yang saya ganti dengan Nama itu adalah form pertama yang disediakan.
 11. Copy tulisan yang ada pada text field Embed HTML.
 
 
-##### VIDEO TUTORIAL
+###### Video Tutorial
 
 [Video tutorial membuat Google Form](https://www.youtube.com/embed/FvZPNIPFCs8)
 
@@ -254,11 +257,14 @@ yang saya ganti dengan Nama itu adalah form pertama yang disediakan.
   <html>
     <head>
       <title>
-        Form
+        Embed Video From Local Video
       </title>
     </head>
     <body>
-
+    <video width="900" controls>
+      <source src="videos/video.mp4" type="video/mp4">
+      Your browser does not support HTML5 video.
+    </video>
     </body>
   </html>
 
@@ -268,14 +274,17 @@ yang saya ganti dengan Nama itu adalah form pertama yang disediakan.
 ---
 ### Instruction
 1. Buka sublime dan mulai menulis script.
-2. Peserta diajarkan untuk mengerti cara membuat internal dan eksternal link.
-2. Peserta diajarkan untuk membuat navigasi menu.
+2. Peserta diajarkan untuk membuat form pada HTML.
+2. Peserta diajarkan untuk membuat google form.
+2. Peserta diajarkan untuk menyisipkan google form pada halaman website.
+2. Peserta diajarkan untuk menyisipkan video youtube pada halaman website.
+2. Peserta diajarkan untuk menyisipkan video yang ada pada laptop pada halaman website.
 
 ---
 
 ### Feedback
-1. Apa yang menjadi bottleneck dari **lesson 02** ini?
-2. Apa yang sebaiknya ditambah dan ditiadakan dari materi **lesson 02** ini?
+1. Apa yang menjadi bottleneck dari **lesson 04** ini?
+2. Apa yang sebaiknya ditambah dan ditiadakan dari materi **lesson 04** ini?
 
 ---
 
