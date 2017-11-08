@@ -216,7 +216,7 @@
       </head>
       <body>
         <p>
-          <strong>Artikel<strong> adalah karangan faktual secara lengkap dengan panjang tertentu yang dibuat untuk dipublikasikan (melalui koran, majalah, <em>buletin</em>, dsb) dan bertujuan menyampaikan gagasan dan fakta yang dapat meyakinkan, mendidik, dan menghibur.
+          <strong>Artikel</strong> adalah karangan faktual secara lengkap dengan panjang tertentu yang dibuat untuk dipublikasikan (melalui koran, majalah, <em>buletin</em>, dsb) dan bertujuan menyampaikan gagasan dan fakta yang dapat meyakinkan, mendidik, dan menghibur.
         </p>
       </body>
     </html>
