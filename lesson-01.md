@@ -312,7 +312,7 @@
 ---
 
 ### Example Code
-* Untuk contoh penulisan code pada kurikulum ini bisa di download pada <a href="https://github.com/kollaeducation/coding-teen-example-code/archive/master.zip">LINK INI</a>.
+* Untuk contoh penulisan code pada kurikulum ini bisa di download pada [LINK INI](https://github.com/kollaeducation/coding-teen-example-code/archive/master.zip).
 
 ---
 

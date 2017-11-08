@@ -272,6 +272,11 @@ yang saya ganti dengan Nama itu adalah form pertama yang disediakan.
   ```
 
 ---
+
+### Example Code
+* Untuk contoh penulisan code pada kurikulum ini bisa di download pada [LINK INI](https://github.com/kollaeducation/coding-teen-example-code/archive/master.zip).
+
+---
 ### Instruction
 1. Buka sublime dan mulai menulis script.
 2. Peserta diajarkan untuk membuat form pada HTML.

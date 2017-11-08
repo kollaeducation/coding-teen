@@ -581,7 +581,7 @@
       <body>
         <h2>Menu Minuman</h2>
         <p>
-        Kami memiliki beberapa menu minuman yang dapat memberikan kesegaran kepada Anda.
+          Kami memiliki beberapa menu minuman yang dapat memberikan kesegaran kepada Anda.
         </p>
         <ul class="minuman">
           <li>Ice Blend Coffee</li>
@@ -591,7 +591,7 @@
 
         <h2>Menu Makanan</h2>
         <p>
-        Kami memiliki beberapa menu makanan yang dapat memanjakan lidah Anda.
+          Kami memiliki beberapa menu makanan yang dapat memanjakan lidah Anda.
         </p>
         <ul class="makanan">
           <li>Coffee Cake</li>
@@ -623,7 +623,7 @@
 ---
 
 ### Example Code
-* Untuk contoh penulisan code pada kurikulum ini bisa di download pada <a href="https://github.com/kollaeducation/coding-teen-example-code/archive/master.zip">LINK INI</a>.
+* Untuk contoh penulisan code pada kurikulum ini bisa di download pada [LINK INI](https://github.com/kollaeducation/coding-teen-example-code/archive/master.zip).
 
 ---
 
