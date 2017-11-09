@@ -18,55 +18,125 @@
 ### Material
 
 #### 1. Preparation
-* Download Bootstrap from http://getbootstrap.com/css/#grid
-* Find and copy file `bootstrap.css` into your project's folder.
+* Download [Bootstrap](https://github.com/twbs/bootstrap/releases/download/v3.3.7/bootstrap-3.3.7-dist.zip)
+* Pindahkan file bootstrap-3.3.7-dist.zip ke dalam project website kamu.
+* Ekstrak file bootstrap-3.3.7-dist.zip, lalu ubah nama folder menjadi bootstrap.
+* Struktur folder akan seperti di bawah ini.
+
+  ```text
+
+    +-- nama-folder
+      |-- index.html
+      +-- bootstrap
+        +-- js
+          |-- bootstrap.js
+          |-- bootstrap.min.js  
+          |-- npm.js
+        +-- fonts
+          |-- glyphicons-halflings-regular.eot
+          |-- glyphicons-halflings-regular.woff
+          |-- glyphicons-halflings-regular.svg
+          |-- glyphicons-halflings-regular.woff2
+          |-- glyphicons-halflings-regular.ttf
+        +-- css
+          |-- bootstrap.css
+          |-- bootstrap.min.css.map
+          |-- bootstrap-theme.min.css
+          |-- bootstrap.css.map
+          |-- bootstrap-theme.css
+          |-- bootstrap-theme.min.css.map
+          |-- bootstrap.min.css
+          |-- bootstrap-theme.css.map
+
+  ```
 
 #### 2. Container and Row sebagai parent dari kolom-kolom.
 
 * Bootstrap 1 Kolom
+
   ```html
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
-        Satu kolom
+
+  <html>
+    <head>
+      <title>
+        Bootstrap 1 Kolom
+      </title>
+        <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.css">
+    </head>
+    <body>
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12">
+            Satu kolom
+          </div>
+        </div>
       </div>
-    </div>
-  </div>
+    </body>
+  </html>
+
   ```
 
 * Bootstrap 2 Kolom
+
   ```html
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-6">
-        Kolom 1
+
+  <html>
+    <head>
+      <title>
+        Bootstrap 2 Kolom
+      </title>
+        <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.css">
+    </head>
+    <body>
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-6">
+            Kolom 1
+          </div>
+          <div class="col-xs-6">
+            Kolom 2
+          </div>
+        </div>
       </div>
-      <div class="col-xs-6">
-        Kolom 2
-      </div>
-    </div>
-  </div>
+    </body>
+  </html>
+
   ```
 
 * Bootstrap 3 Kolom
+
   ```html
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-4">
-        Kolom 1
+
+  <html>
+    <head>
+      <title>
+        Bootstrap 3 Kolom
+      </title>
+        <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.css">
+    </head>
+    <body>
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-4">
+            Kolom 1
+          </div>
+          <div class="col-xs-4">
+            Kolom 2
+          </div>
+          <div class="col-xs-4">
+            Kolom 3
+          </div>
+        </div>
       </div>
-      <div class="col-xs-4">
-        Kolom 2
-      </div>
-      <div class="col-xs-4">
-        Kolom 3
-      </div>
-    </div>
-  </div>
+    </body>
+  </html>
+
   ```
   
 * Bootstrap 3 Kolom Kompleks
+
   ```html
+
   <div class="container">
       <div class="row">
           <div class="col-xs-4 merah">
@@ -94,10 +164,13 @@
           </div>
       </div>
   </div>
+
   ```
 
 #### 2. CSS pembantu
+
 * CSS `style.css`
+
   ```css
   .merah {
       background-color: red;
@@ -117,11 +190,12 @@
   .anak1 {
       margin-left: 20px;
   }
+  
   ```
 ---
 
-### File
-[Download file for this lesson: lesson-04.zip](files/lesson-04.zip)
+### Example Code
+* Untuk contoh penulisan code pada kurikulum ini bisa di download pada [LINK INI](https://github.com/kollaeducation/coding-teen-example-code/archive/master.zip).
 
 ---
 
