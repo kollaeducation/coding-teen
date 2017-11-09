@@ -175,7 +175,7 @@
 ---
 
 ### Example Code
-* [Lesson 5](https://github.com/kollaeducation/coding-teen-example-code/tree/master/day-05).
+* [Lesson 5](https://github.com/kollaeducation/coding-teen-example-code/tree/master/day-05)
 
 ---
 

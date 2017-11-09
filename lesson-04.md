@@ -344,7 +344,7 @@ yang saya ganti dengan Nama itu adalah form pertama yang disediakan.
 ---
 
 ### Example Code
-* [Lesson 4](https://github.com/kollaeducation/coding-teen-example-code/tree/master/day-04).
+* [Lesson 4](https://github.com/kollaeducation/coding-teen-example-code/tree/master/day-04)
 
 ---
 ### Instruction

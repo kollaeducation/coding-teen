@@ -114,7 +114,7 @@ f) `<footer>` - Mendefinisikan footer sebuah website
 ---
 
 ### Example Code
-* [Lesson 6](https://github.com/kollaeducation/coding-teen-example-code/tree/master/day-06).
+* [Lesson 6](https://github.com/kollaeducation/coding-teen-example-code/tree/master/day-06)
 
 ---
 

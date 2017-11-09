@@ -312,7 +312,7 @@
 ---
 
 ### Example Code
-* [Lesson 1](https://github.com/kollaeducation/coding-teen-example-code/tree/master/day-01).
+* [Lesson 1](https://github.com/kollaeducation/coding-teen-example-code/tree/master/day-01)
 
 ---
 

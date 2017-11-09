@@ -52,7 +52,7 @@
 ---
 
 ### Example Code
-* [Lesson 8](https://github.com/kollaeducation/coding-teen-example-code/tree/master/day-08).
+* [Lesson 8](https://github.com/kollaeducation/coding-teen-example-code/tree/master/day-08)
 
 ---
 

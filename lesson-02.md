@@ -698,7 +698,7 @@
 ---
 
 ### Example Code
-* [Lesson 2](https://github.com/kollaeducation/coding-teen-example-code/tree/master/day-02).
+* [Lesson 2](https://github.com/kollaeducation/coding-teen-example-code/tree/master/day-02)
 
 ---
 

@@ -195,7 +195,7 @@
 ---
 
 ### Example Code
-* [Lesson 7](https://github.com/kollaeducation/coding-teen-example-code/tree/master/day-07).
+* [Lesson 7](https://github.com/kollaeducation/coding-teen-example-code/tree/master/day-07)
 
 ---
 
