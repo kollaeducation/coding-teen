@@ -51,6 +51,11 @@
 
 ---
 
+### Example Code
+* [Lesson 8](https://github.com/kollaeducation/coding-teen-example-code/tree/master/day-08).
+
+---
+
 ### Latihan
 1. Buat halaman yang responsive ketika dibuka pada Phone, Tablet, Desktop dan Large Screen.
 

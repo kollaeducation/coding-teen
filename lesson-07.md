@@ -195,7 +195,7 @@
 ---
 
 ### Example Code
-* Untuk contoh penulisan code pada kurikulum ini bisa di download pada [LINK INI](https://github.com/kollaeducation/coding-teen-example-code/archive/master.zip).
+* [Lesson 7](https://github.com/kollaeducation/coding-teen-example-code/tree/master/day-07).
 
 ---
 
