@@ -30,8 +30,9 @@
 * Membuat GitHub Pages
 
 #### 4. Tutorial
-* [Cara membuat akun dan domain serta hosting di idhostinger](https://www.youtube.com/embed/3ML3A43uum4)
-<!-- * [Cara membuat akun dan domain serta hosting di idhostinger](https://www.youtube.com/embed/3ML3A43uum4) -->
+* [Cara membuat akun, domain, dan hosting di idhostinger](https://www.youtube.com/embed/3ML3A43uum4)
+* [Cara upload website dari local komputer ke idhostinger](https://www.youtube.com/embed/pYUwZlCCGhc)
+
 ---
 
 ### Exercises
@@ -43,8 +44,8 @@
 ---
 
 ### Feedback
-1. Apa yang menjadi bottleneck dari **lesson 07** ini?
-2. Apa yang sebaiknya ditambah dan ditiadakan dari materi **lesson 07** ini?
+1. Apa yang menjadi bottleneck dari **lesson 11** ini?
+2. Apa yang sebaiknya ditambah dan ditiadakan dari materi **lesson 11** ini?
 
 ---
 
