@@ -347,6 +347,47 @@ yang saya ganti dengan Nama itu adalah form pertama yang disediakan.
   5. Pilih <b>"Google Maps JavaScript API"</b>, lalu tekan tombol <b>"Kredensial apa yang saya butuhkan?"</b>.
   <img src="https://scontent-sin6-2.xx.fbcdn.net/v/t1.0-9/23517486_10211227200663891_2890477635700295732_n.jpg?oh=99c987468a87cf37197217ab28e0e6b8&oe=5A9414D0">
   6. Copy kunci API yang ada seperti pada gambar di atas. Kemudian tekan tombol <b>"Selesai"</b>.
+  7. Selesai, kamu sudah memiliki kunci API untuk menggunakan Google Map.
+
+  Isi file `index.html`:
+
+  ```html
+
+  <html>
+    <head>
+      <style>
+         #map {
+          height: 400px;
+          width: 100%;
+         }
+      </style>
+    </head>
+    <body>
+      <h3>My Google Maps Demo</h3>
+      <div id="map"></div>
+      <script>
+        function initMap() {
+          var uluru = {lat: -25.363, lng: 131.044};
+          var map = new google.maps.Map(document.getElementById('map'), {
+            zoom: 4,
+            center: uluru
+          });
+          var marker = new google.maps.Marker({
+            position: uluru,
+            map: map
+          });
+        }
+      </script>
+      <script async defer
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDl6xFyvdKRwq4xhKoHhN6ZabtgdbRiq6o&callback=initMap">
+      </script>
+    </body>
+  </html>
+
+
+  ```
+
+#### 6. Embed Audio
 
   * Isi file `index.html`:
 
@@ -354,21 +395,17 @@ yang saya ganti dengan Nama itu adalah form pertama yang disediakan.
 
   <html>
     <head>
-      <title>
-        Embed Google Map
-      </title>
+        <title>
+          Embed Audio
+        </title>
     </head>
     <body>
-    <video width="900" controls>
-      <source src="videos/video.mp4" type="video/mp4">
-      Your browser does not support HTML5 video.
-    </video>
+      <img src="images/happy-birthday.gif"><br>
+      <audio src="audio/happy-birthday.mp3" autoplay controls></audio>
     </body>
   </html>
 
-
   ```
-
 ---
 
 ### Example Code
