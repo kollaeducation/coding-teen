@@ -251,9 +251,6 @@ yang saya ganti dengan Nama itu adalah form pertama yang disediakan.
 
 ##### [Video tutorial membuat Google Form](https://www.youtube.com/embed/FvZPNIPFCs8)
 
-
-
-
 ##### b) Cara Menyisipkan Google Form Pada Website
 
   * Isi file `index.html`:
@@ -317,8 +314,7 @@ yang saya ganti dengan Nama itu adalah form pertama yang disediakan.
 
   ```
 
----
-#### 3. Embed Video From Local Video
+#### 4. Embed Video From Local Video
 
   * Isi file `index.html`:
 
@@ -328,6 +324,38 @@ yang saya ganti dengan Nama itu adalah form pertama yang disediakan.
     <head>
       <title>
         Embed Video From Local Video
+      </title>
+    </head>
+    <body>
+    <video width="900" controls>
+      <source src="videos/video.mp4" type="video/mp4">
+      Your browser does not support HTML5 video.
+    </video>
+    </body>
+  </html>
+
+
+  ```
+
+#### 5. Embed Google Map
+  * Mendapat Api Key Google
+  1. Untuk menyisipkan website pada halaman web kita perlu membuat project di Google API Console.
+  2. Akses <a href="https://console.developers.google.com/flows/enableapi?apiid=maps_backend,geocoding_backend,directions_backend,distance_matrix_backend,elevation_backend,places_backend&reusekey=true">Google API Console</a>.
+  3. Buat atau pilih project.
+  4. Klik tombol <b>"Setuju dan Lanjutkan"</b>. Akan tampil, tampilan di bawah ini.
+  <img src="https://www.facebook.com/photo.php?fbid=10211227187503562&set=a.1038778577779.2007193.1474968163&type=3">
+  5. Pilih <b>"Google Maps JavaScript API"</b>, lalu tekan tombol <b>"Kredensial apa yang saya butuhkan?"</b>.
+  <img src="https://www.facebook.com/photo.php?fbid=10211227200663891&set=pcb.10211227187983574&type=3">
+  6. Copy kunci API yang ada seperti pada gambar di atas. Kemudian tekan tombol <b>"Selesai"</b>.
+
+  * Isi file `index.html`:
+
+  ```html
+
+  <html>
+    <head>
+      <title>
+        Embed Google Map
       </title>
     </head>
     <body>
