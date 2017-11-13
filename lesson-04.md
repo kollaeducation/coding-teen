@@ -15,6 +15,8 @@
 3. Peserta mengetahui cara menyisipkan google form pada halaman website.
 4. Peserta mengetahui cara menyisipkan video youtube pada halaman website.
 5. Peserta mengetahui cara menyisipkan video yang ada pada laptop pada halaman website.
+6. Peserta mengetahui cara menyisipkan map pada halaman website.
+7. Peserta mengetahui cara menyisipkan audio pada halaman website.
 
 ---
 
@@ -419,6 +421,8 @@ yang saya ganti dengan Nama itu adalah form pertama yang disediakan.
 4. Peserta diajarkan untuk menyisipkan google form pada halaman website.
 5. Peserta diajarkan untuk menyisipkan video youtube pada halaman website.
 6. Peserta diajarkan untuk menyisipkan video yang ada pada laptop pada halaman website.
+7. Peserta diajarkan untuk menyisipkan map pada halaman website.
+8. Peserta diajarkan untuk menyisipkan audio pada halaman website.
 
 ---
 
